@@ -1,0 +1,22 @@
+{
+  "note": "verifier-driven regenerate: per-sample up to max_tries; accept if verifier_score >= min_score, else keep last try",
+  "input": "/home/yyh/USER_YCJ/MyCode/artanis-grpo-release/data/processed/grpo_json/test_30.json",
+  "base_model": "src/translator/legacy/INFOCOM26-Intent-Model/model/LLM-Research/Meta-Llama-3-8B-Instruct",
+  "adapter": "checkpoints/translator/grpo_lora/checkpoint-200",
+  "count": 130,
+  "min_score": 0.2,
+  "max_tries": 1,
+  "accepted_rate": 0.0,
+  "avg_tries": 1.0,
+  "time_sec_total": 653.04,
+  "time_sec_avg": 5.023,
+  "time_sec_p50": 4.699,
+  "time_sec_p90": 8.783,
+  "verifier_score_avg": 0.0,
+  "verifier_score_p50": 0.0,
+  "verifier_score_p90": 0.0,
+  "outputs": {
+    "jsonl": "/home/yyh/USER_YCJ/MyCode/artanis-grpo-release/result/generated_output_30.jsonl",
+    "summary": "/home/yyh/USER_YCJ/MyCode/artanis-grpo-release/result/generated_output_30_summary.json"
+  }
+}

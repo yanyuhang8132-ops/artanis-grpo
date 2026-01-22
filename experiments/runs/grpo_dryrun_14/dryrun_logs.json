@@ -1,0 +1,92 @@
+[
+  {
+    "step": 0,
+    "raw_idx": 0,
+    "mean_reward": 0.0,
+    "std_reward": 0.0,
+    "rewards": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "advantages": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "step": 1,
+    "raw_idx": 1,
+    "mean_reward": 0.0,
+    "std_reward": 0.0,
+    "rewards": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "advantages": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "step": 2,
+    "raw_idx": 2,
+    "mean_reward": 0.0,
+    "std_reward": 0.0,
+    "rewards": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "advantages": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "step": 3,
+    "raw_idx": 3,
+    "mean_reward": 0.0,
+    "std_reward": 0.0,
+    "rewards": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "advantages": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "step": 4,
+    "raw_idx": 4,
+    "mean_reward": 0.0,
+    "std_reward": 0.0,
+    "rewards": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "advantages": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  }
+]

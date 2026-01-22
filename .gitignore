@@ -21,8 +21,6 @@ conda-meta/
 .idea/
 
 # outputs
-result/
-experiments/runs/
 logs/
 *.log
 
@@ -35,10 +33,6 @@ checkpoints/
 **/*.pth
 **/*.pt
 **/*.safetensors
-
-# data (often large)
-data/
-src/verifier/legacy/CPV/data/augmented_dataset_all.json
 
 # gns3 / tmp
 tmp/

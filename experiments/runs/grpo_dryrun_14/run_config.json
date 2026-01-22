@@ -1,0 +1,11 @@
+{
+  "train_file": "data/processed/grpo_json/train_14.json",
+  "test_file": "data/processed/grpo_json/test_14.json",
+  "dry_run": true,
+  "num_generations": 4,
+  "max_steps": 5,
+  "seed": 42,
+  "out_dir": "experiments/runs/grpo_dryrun_14",
+  "raw_idx_field": null,
+  "completion_field": "output"
+}
