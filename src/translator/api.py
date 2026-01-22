@@ -1,4 +1,3 @@
-# src/translator/api.py
 from __future__ import annotations
 
 import ast
@@ -10,11 +9,8 @@ import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from peft import PeftModel
 
-# ====== 方案一：你的真实路径（默认值）======
 DEFAULT_MODEL_PATH = "checkpoints/translator/base_models/infocom26_base_model/Meta-Llama-3-8B-Instruct"
 
-# 你希望尽量别放 legacy，所以这里我默认指向“新目录”
-# 你把 adapter 文件拷到 checkpoints/translator/sft_lora/adapter 后，这个默认值就能直接用
 DEFAULT_ADAPTER_PATH = "checkpoints/translator/sft_lora/adapter"
 
 _TOKENIZER: Optional[AutoTokenizer] = None
@@ -75,12 +71,10 @@ def _lazy_load() -> None:
 
 
 def _try_parse_json_or_literal(s: str) -> Optional[Any]:
-    # strict json
     try:
         return json.loads(s)
     except Exception:
         pass
-    # python literal (单引号 list/dict)
     try:
         return ast.literal_eval(s)
     except Exception:
@@ -125,7 +119,6 @@ def _extract_first_bracketed_array(text: str) -> Optional[str]:
 
 def _normalize_to_json_array(raw: str) -> str:
     """
-    目标：尽最大努力把输出变成“合法 JSON array 字符串”。
     - 优先抽取 [...] 子串
     - 尝试 json.loads / ast.literal_eval
     - 最终兜底：返回 []（保证 reward 至少进入 valid_json 分支）
@@ -159,7 +152,7 @@ def generate(
     top_p: float = 0.95,
 ) -> List[str]:
     """
-    输入：instruction（sample["instruction"] 那种纯文本）
+    输入：instruction（sample["instruction"] 纯文本）
     输出：长度为 num_generations 的 completion list，每个尽力保证是“合法 JSON array 字符串”
     """
     _lazy_load()

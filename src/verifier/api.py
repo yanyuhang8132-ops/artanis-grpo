@@ -1,4 +1,3 @@
-# src/verifier/api.py
 from __future__ import annotations
 
 import os
@@ -165,7 +164,6 @@ def _get_model():
         ec_vocab_size=int(cfg["ec_vocab_size"]),
         ec_embed_dim=int(cfg["ec_embed_dim"]),
         hidden_dim=int(cfg["hidden_dim"]),
-        # num_heads 可能不同版本没有，保守不传
     )
 
     sd = torch.load(cfg["ckpt_path"], map_location="cpu")

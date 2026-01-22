@@ -53,7 +53,6 @@ class GRPORewardWrapper:
         if n_p == n_completions:
             return prompts
         if n_completions % n_p != 0:
-            # 兜底：循环重复
             return [prompts[i % n_p] for i in range(n_completions)]
         g = n_completions // n_p
         out: List[str] = []
