@@ -1,0 +1,36 @@
+[
+  {
+    "acl_rules": {
+      "rules": [
+        {
+          "interface": "interface_1",
+          "permit": "10.0.0.35 -> 10.0.0.60",
+          "rate_limit": "32 Mbps"
+        }
+      ]
+    },
+    "block_type": "acl",
+    "device": "Ptuj",
+    "slb_config": null,
+    "type": "added"
+  },
+  {
+    "acl_rules": null,
+    "block_type": "slb",
+    "device": "Maribor",
+    "slb_config": {
+      "real_servers": [
+        {
+          "ip": "10.0.0.87",
+          "weight": "30"
+        },
+        {
+          "ip": "10.0.0.56",
+          "weight": "70"
+        }
+      ],
+      "virtual_ip": "10.0.0.45 / 255.255.255.255"
+    },
+    "type": "added"
+  }
+]

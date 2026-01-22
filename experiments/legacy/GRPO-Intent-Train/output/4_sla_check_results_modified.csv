@@ -1,0 +1,132 @@
+sample_id,source,destination,sla,satisfied,min_bw_top_paths,max_bw_top_paths,unsatisfied_links
+summary,,,,40.74%,,,
+0,Hinttnarvik,Hilttlillehammer,84.0,True,[103.0],[163.0],
+1,Ntnuttrealfagbygget,Hshtthaugesund,60.0,False,[29.2],[125.0],Hshttstord-Hshtthaugesund(29.2)
+2,Stockholm,Hvettborre,94.0,False,[28.2],[94.0],Uioid1-Hiotthalden(51.0); Hiotthalden-Hiottfredrikstad(51.0); Hiottfredrikstad-Hvettborre(28.2)
+3,Unikttkjeller,Hingttstjordal,39.0,False,[],[],
+4,Peerhingttstjordal_0,Hvottvolda,69.0,False,[51.0],[164.9],Peerhingttstjordal_0-Hingttstjordal(51.0); Ntnutthovedbygget-Hiattalesund(54.0)
+5,Uiattkristiansand,Higttgjovik,30.0,False,[],[],
+6,Hitttbo,Uitottkarasjok,55.0,False,[38.5],[142.9],Uio-Uioid1(38.5)
+7,Hsfttsandane,Hiotthalden,99.0,False,[],[],
+8,Hhtthamar,Umbttas,45.0,False,[15.7],[46.0],Hhttelverum-Hhttkongsvinger(15.7); Hhttkongsvinger-Uio(15.7)
+9,Hinettmottittrana,Peerhingttstjordal_0,87.0,False,[78.0],[200.0],Ntnuttrealfagbygget-Hingttstjordal(78.0)
+10,Higttgjovik,Uiattgrimstad,44.0,False,[],[],
+11,Nordunetttstockholm,Hbottbodo,34.0,False,[],[],
+12,Hinettsandnesjoen,Hiottfredrikstad,71.0,False,[39.1],[164.0],Ntnutthovedbygget-Ntnuttrealfagbygget(39.1)
+13,Unikttkjeller,Hitttbo,74.0,False,[51.8],[143.8],Uio-Hitttbo(51.8)
+14,Hshttstord,Uninettttteknobyen,42.0,True,[71.2],[125.0],
+15,Hhtttynset,Uitottkarasjok,42.0,True,[42.0],[232.4],
+16,Hibuttkongsberg,Hinettmottittrana,80.0,False,[],[],
+17,Hitttbo,Hiattalesund,31.0,True,[53.3],[238.3],
+18,Hifttalta,Hiottfredrikstad,32.0,True,[52.3],[179.2],
+19,Sa_shttkautokeino,Uninettttteknobyen,66.0,False,[],[],
+20,Sa_shttkautokeino,Nbttmottittrana,49.0,False,[17.1],[104.8],Hifttalta-Uitoid43(17.1); Uitoid43-Ntnuttrealfagbygget(25.9)
+21,Hiotthalden,Hiakttkjeller,38.0,True,[38.0],[153.9],
+22,Nordunetttkobenhavn,Hiottfredrikstad,46.0,True,[84.0],[122.0],
+23,Umbttas,Ntnuttrealfagbygget,84.0,False,[],[],
+24,Uibttbt,Hitttnotodden,75.0,False,[40.6],[159.0],Uio-Hitttbo(40.6)
+25,Sa_shttkautokeino,Unisttsvalbard,72.0,False,[18.7],[164.6],Sa_shttkautokeino-Hifttalta(69.0); Uitoid43-Hihttharstad(18.7)
+26,Hibuttdrammen,Uibttbt,53.0,True,[68.0],[151.0],
+27,Hinettnesna,Higttgjovik,47.0,False,[],[],
+28,Hifttalta,Hsmttkristiansun,96.0,False,[38.0],[190.0],Ntnuttrealfagbygget-Uninettttteknobyen(38.4); Uninettttteknobyen-Hsmttkristiansun(38.0)
+29,Nordunetttstockholm,Hhtttynset,95.0,False,[42.8],[166.0],Stockholm-Uioid1(42.8)
+30,Ntnutthovedbygget,Hbottmottittrana,74.0,False,[],[],
+31,Hshttstord,Nbttmottittrana,83.0,True,[83.0],[189.0],
+32,Hibuttkongsberg,Hintttnamsos,93.0,False,[],[],
+33,Hihttharstad,Uninettttteknobyen,51.0,True,[51.0],[114.0],
+34,Uibttbt,Hifttkirkenes,30.0,False,[],[],
+35,Hinettsandnesjoen,Uitottkarasjok,47.0,False,[28.2],[176.0],Sa_shttkautokeino-Uitottkarasjok(28.2)
+36,Uibtthoyteklogibygget,Hiottfredrikstad,38.0,True,[60.8],[131.0],
+37,Peerhingttstjordal_0,Unikttkjeller,81.0,False,[],[],
+38,Hbottbodo,Hilttlillehammer,56.0,False,[55.4],[227.5],Hinettsandnesjoen-Ntnutthovedbygget(55.4)
+39,Vethsttsandnes,Nordunetttstockholmid58,82.0,False,[],[],
+40,Hhttelverum,Hiotthalden,53.0,False,[],[],
+41,Hvettborre,Uibttbt,85.0,False,[],[],
+42,Sa_shttkautokeino,Hsmttmolde,98.0,False,[],[],
+43,Umbttas,Uiottstttolavsplasstt5,42.0,False,[],[],
+44,Hiotthalden,Hinettnesna,42.0,False,[],[],
+45,Hshttstord,Hinettsandnesjoen,67.0,False,[13.2],[171.0],Hinttnarvik-Hbottbodo(13.2); Hbottbodo-Hinettsandnesjoen(66.0)
+46,Hintttlevanger,Nordunetttstockholmid58,76.0,False,[],[],
+47,Hshttstord,Uioid1,44.0,True,[44.0],[96.6],
+48,Hsfttsandane,Hshtthaugesund,38.0,False,[],[],
+49,Hiotthalden,Hvettlarvik,98.0,False,[],[],
+50,Hinettmottittrana,Uibttbt,54.0,True,[120.0],[200.0],
+51,Hvottvolda,Unikttkjeller,35.0,True,[35.0],[176.0],
+52,Hvottvolda,Hiakttkjeller,33.0,False,[],[],
+53,Higttgjovik,Uitottkarasjok,52.0,True,[52.0],[195.0],
+54,Uisttstavanger,Hhtthamar,35.0,False,[12.2],[128.0],Uibttbt-Uio(12.2); Hhttelverum-Hhtthamar(12.2)
+55,Hihttharstad,Hsfttsandane,30.0,True,[30.0],[234.0],
+56,Hibuttkongsberg,Hsfttsandane,65.0,True,[65.0],[216.4],
+57,Hsfttsongdal,Hhttevenstad,37.0,True,[37.0],[193.0],
+58,Hifttalta,Uiattkristiansand,88.0,False,[],[],
+59,Hitttrauland,Vethsttsandnes,98.0,False,[],[],
+60,Vethsttsandnes,Hilttlillehammer,81.0,False,[],[],
+61,Peerhingttstjordal_0,Hiotthalden,89.0,False,[],[],
+62,Hintttnamsos,Sa_shttkautokeino,96.0,False,[70.0],[180.0],Uitoid43-Hifttalta(70.0)
+63,Hhttelverum,Uisttstavanger,87.0,False,[61.0],[138.4],Uio-Uibttbt(61.0)
+64,Nyalesund,Uiattgrimstad,83.0,False,[42.0],[223.2],Unisttsvalbard-Hihttharstad(42.0); Hibuttdrammen-Hitttbo(69.0)
+65,Vethsttsandnes,Hhttkongsvinger,72.0,False,[],[],
+66,Peerhingttstjordal_0,Hihttharstad,80.0,False,[32.0],[147.0],Peerhingttstjordal_0-Hingttstjordal(54.0); Hingttstjordal-Ntnuttrealfagbygget(32.0); Ntnutthovedbygget-Hinttnarvik(47.1)
+67,Hinettmottittrana,Hvottvolda,56.0,True,[56.0],[131.0],
+68,Hsmttkristiansun,Hifttkirkenes,53.0,False,[51.3],[242.7],Hinttnarvik-Uito(51.3)
+69,Nordunetttstockholmid58,Uito,82.0,False,[19.2],[232.6],Uiottstttolavsplasstt5-Ntnutthovedbygget(19.2); Ntnutthovedbygget-Hinttnarvik(76.0)
+70,Nordunetttstockholmid58,Hifttkirkenes,30.0,False,[],[],
+71,Hibuttdrammen,Hintttsteinkjer,37.0,False,[],[],
+72,Peerhingttstjordal_0,Hintttsteinkjer,91.0,False,[],[],
+73,Hhtthamar,Hsmttkristiansun,69.0,False,[],[],
+74,Uito,Nordunetttkobenhavn,57.0,False,[],[],
+75,Uisttstavanger,Hhttkongsvinger,71.0,False,[],[],
+76,Hinettsandnesjoen,Hbottmottittrana,68.0,False,[22.8],[135.0],Hinettsandnesjoen-Hbottbodo(22.8); Hbottbodo-Nbttmottittrana(44.2)
+77,Unisttsvalbard,Hinettmottittrana,52.0,False,[38.0],[211.0],Unisttsvalbard-Hihttharstad(48.0); Ntnutthovedbygget-Ntnuttrealfagbygget(38.0)
+78,Hitttrauland,Nordunetttkobenhavn,45.0,True,[82.0],[111.9],
+79,Hsmttmolde,Hsfttsandane,47.0,False,[],[],
+80,Nbttmottittrana,Hsmttmolde,31.0,True,[72.4],[251.0],
+81,Hvettborre,Nbttmottittrana,48.0,False,[15.7],[189.0],Uiottstttolavsplasstt5-Ntnutthovedbygget(15.7)
+82,Uitoid43,Hhttevenstad,37.0,False,[],[],
+83,Nordunetttkobenhavn,Sa_shttkautokeino,74.0,True,[74.0],[185.0],
+84,Hingttstjordal,Uisttstavanger,39.0,True,[39.0],[204.1],
+85,Hitttnotodden,Uitoid43,33.0,False,[11.5],[171.0],Uio-Uioid1(11.5)
+86,Sa_shttkautokeino,Uninettttteknobyen,45.0,False,[],[],
+87,Hinettnesna,Hvettborre,50.0,True,[50.0],[168.2],
+88,Higttgjovik,Stockholm,38.0,False,[],[],
+89,Hintttsteinkjer,Hitttporsgrunn,58.0,True,[58.0],[173.4],
+90,Sa_shttkautokeino,Uibtthoyteklogibygget,39.0,False,[25.4],[182.0],Hifttalta-Uitoid43(25.4)
+91,Hingttstjordal,Uito,64.0,False,[44.0],[140.5],Ntnuttrealfagbygget-Ntnutthovedbygget(53.0); Hinttnarvik-Uito(44.0)
+92,Uioid1,Hvettlarvik,48.0,True,[48.0],[220.6],
+93,Uninettttteknobyen,Vethsttsandnes,70.0,False,[39.0],[192.0],Uiattkristiansand-Uisttstavanger(39.0)
+94,Nyalesund,Hiotthalden,93.0,True,[93.0],[200.0],
+95,Ntnuttrealfagbygget,Peerhingttstjordal_0,81.0,False,[64.0],[81.0],Ntnuttrealfagbygget-Hingttstjordal(64.0)
+96,Hibuttkongsberg,Hsfttsandane,59.0,False,[53.0],[126.5],Hibuttkongsberg-Hibuttdrammen(53.0)
+97,Hsfttsandane,Hiottfredrikstad,69.0,False,[],[],
+98,Hsmttkristiansun,Uiattgrimstad,55.0,False,[32.5],[180.0],Hhttevenstad-Hhttrena(38.5); Hhttelverum-Hhttkongsvinger(38.5); Uiottstttolavsplasstt5-Uiattkristiansand(32.5); Uiattkristiansand-Uiattgrimstad(32.5)
+99,Hinttnarvik,Hifttalta,42.0,False,[23.1],[196.0],Uito-Uitoid43(23.1)
+100,Uibtthoyteklogibygget,Peerhingttstjordal_0,70.0,False,[19.5],[122.0],Ntnutthovedbygget-Hintttsteinkjer(19.5); Hintttsteinkjer-Hintttlevanger(19.5); Hintttlevanger-Hingttstjordal(61.5)
+101,Sa_shttkautokeino,Nordunetttstockholm,58.0,False,[],[],
+102,Uitoid43,Uibttbt,87.0,False,[],[],
+103,Hilttlillehammer,Hintttlevanger,89.0,False,[],[],
+104,Uiattgrimstad,Hifttalta,38.0,False,[24.7],[188.0],Uiattkristiansand-Uiottstttolavsplasstt5(24.7)
+105,Stockholm,Hingttstjordal,75.0,False,[9.0],[183.0],Uioid1-Ntnuttrealfagbygget(9.0)
+106,Peerhingttstjordal_0,Hitttnotodden,46.0,False,[],[],
+107,Uisttstavanger,Hiakttkjeller,84.0,False,[38.0],[120.2],Uisttstavanger-Uiattkristiansand(70.0); Hibuttdrammen-Hibuttkongsberg(58.8); Hibuttkongsberg-Hibutthonefoss(38.0); Hibutthonefoss-Hiakttkjeller(38.0)
+108,Hinttnarvik,Hhttrena,86.0,False,[38.7],[199.2],Hhtttynset-Hhttevenstad(66.0); Hhttevenstad-Hhttrena(38.7)
+109,Uio,Ntnutthovedbygget,36.0,True,[36.0],[135.2],
+110,Peerhingttstjordal_0,Hiattalesund,43.0,False,[],[],
+111,Uitottkarasjok,Uitoid43,34.0,True,[93.0],[158.0],
+112,Hhtttynset,Hinettsandnesjoen,66.0,False,[52.0],[156.0],Ntnuttrealfagbygget-Ntnutthovedbygget(52.0)
+113,Hhttkongsvinger,Hifttalta,76.0,False,[74.0],[198.0],Uioid1-Ntnuttrealfagbygget(74.0)
+114,Unikttkjeller,Nordunetttkobenhavn,39.0,False,[],[],
+115,Hbottmottittrana,Hiotthalden,33.0,True,[33.0],[119.7],
+116,Hsfttsandane,Uitoid43,80.0,False,[48.0],[194.0],Hsfttforde-Hsfttsongdal(48.0)
+117,Hhtttynset,Hsfttforde,44.0,False,[],[],
+118,Umbttas,Ntnuttrealfagbygget,87.0,False,[51.0],[124.3],Umbttas-Uio(64.0); Uioid1-Ntnuttrealfagbygget(51.0)
+119,Hintttnamsos,Hshttstord,38.0,False,[],[],
+120,Hbottmottittrana,Uiattgrimstad,76.0,False,[],[],
+121,Hvottvolda,Uioid1,32.0,True,[56.0],[242.2],
+122,Vethsttsandnes,Uioid1,55.0,False,[36.3],[195.0],Ntnutthovedbygget-Hinttnarvik(36.3)
+123,Uisttstavanger,Hibuttdrammen,47.0,False,[19.8],[164.0],Uibttbt-Uio(19.8); Hhtthamar-Hilttlillehammer(28.0)
+124,Hsmttmolde,Hibutthonefoss,67.0,False,[],[],
+125,Uiattkristiansand,Nordunetttstockholmid58,65.0,True,[72.0],[164.0],
+126,Hsfttforde,Hsmttkristiansun,50.0,False,[29.4],[66.2],Hvottvolda-Hiattalesund(29.4)
+127,Ntnuttrealfagbygget,Uiottstttolavsplasstt5,75.0,False,[53.0],[195.0],Ntnuttrealfagbygget-Ntnutthovedbygget(53.0)
+128,Hiotthalden,Hsfttsongdal,36.0,True,[36.0],[86.0],
+129,Hihttharstad,Hvettborre,66.0,False,[47.1],[109.4],Hinttnarvik-Ntnutthovedbygget(47.1)

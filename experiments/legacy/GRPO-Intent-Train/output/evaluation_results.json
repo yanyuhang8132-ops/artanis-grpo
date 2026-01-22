@@ -1,0 +1,200 @@
+{
+  "summary": {
+    "total_samples": 5,
+    "valid_samples": 5,
+    "average_score": 0.21999999999999997,
+    "score_std": 0.02666666666666666,
+    "score_distribution": {
+      "high_quality": 0,
+      "medium_quality": 0,
+      "low_quality": 5
+    }
+  },
+  "detailed_results": [
+    {
+      "sample_id": 1,
+      "validation": {
+        "valid": true,
+        "scores": {
+          "config_validity": {
+            "has_new_acl": true,
+            "has_new_slb": false,
+            "total_new_rules": 1
+          },
+          "connectivity": {
+            "original_edges": 66,
+            "modified_edges": 66,
+            "is_connected": false,
+            "num_components": 6
+          },
+          "config_quality": {
+            "score": 1.0,
+            "passed_checks": 1,
+            "total_checks": 1
+          },
+          "reference_similarity": {
+            "error": "无法解析参考答案"
+          },
+          "overall_score": 0.2333333333333333
+        },
+        "details": {
+          "device_count": 35,
+          "new_acl_count": 1,
+          "new_slb_count": 0,
+          "topology_size": [
+            35,
+            35
+          ]
+        }
+      }
+    },
+    {
+      "sample_id": 2,
+      "validation": {
+        "valid": true,
+        "scores": {
+          "config_validity": {
+            "has_new_acl": true,
+            "has_new_slb": false,
+            "total_new_rules": 1
+          },
+          "connectivity": {
+            "original_edges": 60,
+            "modified_edges": 60,
+            "is_connected": false,
+            "num_components": 9
+          },
+          "config_quality": {
+            "score": 1.0,
+            "passed_checks": 1,
+            "total_checks": 1
+          },
+          "reference_similarity": {
+            "error": "无法解析参考答案"
+          },
+          "overall_score": 0.2333333333333333
+        },
+        "details": {
+          "device_count": 35,
+          "new_acl_count": 1,
+          "new_slb_count": 0,
+          "topology_size": [
+            35,
+            35
+          ]
+        }
+      }
+    },
+    {
+      "sample_id": 3,
+      "validation": {
+        "valid": true,
+        "scores": {
+          "config_validity": {
+            "has_new_acl": true,
+            "has_new_slb": false,
+            "total_new_rules": 2
+          },
+          "connectivity": {
+            "original_edges": 66,
+            "modified_edges": 66,
+            "is_connected": false,
+            "num_components": 9
+          },
+          "config_quality": {
+            "score": 1.0,
+            "passed_checks": 2,
+            "total_checks": 2
+          },
+          "reference_similarity": {
+            "error": "无法解析参考答案"
+          },
+          "overall_score": 0.2333333333333333
+        },
+        "details": {
+          "device_count": 35,
+          "new_acl_count": 2,
+          "new_slb_count": 0,
+          "topology_size": [
+            35,
+            35
+          ]
+        }
+      }
+    },
+    {
+      "sample_id": 4,
+      "validation": {
+        "valid": true,
+        "scores": {
+          "config_validity": {
+            "has_new_acl": true,
+            "has_new_slb": false,
+            "total_new_rules": 1
+          },
+          "connectivity": {
+            "original_edges": 58,
+            "modified_edges": 58,
+            "is_connected": false,
+            "num_components": 11
+          },
+          "config_quality": {
+            "score": 1.0,
+            "passed_checks": 1,
+            "total_checks": 1
+          },
+          "reference_similarity": {
+            "error": "无法解析参考答案"
+          },
+          "overall_score": 0.2333333333333333
+        },
+        "details": {
+          "device_count": 35,
+          "new_acl_count": 1,
+          "new_slb_count": 0,
+          "topology_size": [
+            35,
+            35
+          ]
+        }
+      }
+    },
+    {
+      "sample_id": 5,
+      "validation": {
+        "valid": true,
+        "scores": {
+          "config_validity": {
+            "has_new_acl": true,
+            "has_new_slb": true,
+            "total_new_rules": 2
+          },
+          "connectivity": {
+            "original_edges": 58,
+            "modified_edges": 58,
+            "is_connected": false,
+            "num_components": 7
+          },
+          "config_quality": {
+            "score": 0.5,
+            "passed_checks": 1,
+            "total_checks": 2
+          },
+          "reference_similarity": {
+            "error": "无法解析参考答案"
+          },
+          "overall_score": 0.16666666666666666
+        },
+        "details": {
+          "device_count": 35,
+          "new_acl_count": 1,
+          "new_slb_count": 1,
+          "topology_size": [
+            35,
+            35
+          ]
+        }
+      }
+    }
+  ]
+}

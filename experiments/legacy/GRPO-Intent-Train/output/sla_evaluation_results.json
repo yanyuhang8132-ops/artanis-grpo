@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "total_samples": 5,
+    "satisfied_samples": 2,
+    "satisfaction_rate": 0.4,
+    "average_score": 0.4
+  },
+  "detailed_results": [
+    {
+      "sample_id": 1,
+      "score": 1.0,
+      "satisfied": true
+    },
+    {
+      "sample_id": 2,
+      "score": 1.0,
+      "satisfied": true
+    },
+    {
+      "sample_id": 3,
+      "score": 0.0,
+      "satisfied": false
+    },
+    {
+      "sample_id": 4,
+      "score": 0.0,
+      "satisfied": false
+    },
+    {
+      "sample_id": 5,
+      "score": 0.0,
+      "satisfied": false
+    }
+  ]
+}

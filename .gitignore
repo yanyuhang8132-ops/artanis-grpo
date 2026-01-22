@@ -1,0 +1,45 @@
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# env
+.venv/
+venv/
+.env
+*.env
+
+# conda
+*.conda
+conda-meta/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# outputs
+result/
+experiments/runs/
+logs/
+*.log
+
+# checkpoints / models (do NOT push to git)
+checkpoints/
+**/checkpoint-*/
+**/adapter_model.safetensors
+**/adapter_model.bin
+**/*.ckpt
+**/*.pth
+**/*.pt
+**/*.safetensors
+
+# data (often large)
+data/
+src/verifier/legacy/CPV/data/augmented_dataset_all.json
+
+# gns3 / tmp
+tmp/
+cache/

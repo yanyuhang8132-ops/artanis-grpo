@@ -1,0 +1,132 @@
+sample_id,source,destination,sla,satisfied,min_bw_top_paths,max_bw_top_paths,unsatisfied_links
+summary,,,,56.86%,,,
+0,Rogasjattslatina,Divaca,99.0,True,[123.0],[230.0],
+1,Postojna,Izola,46.5,True,[62.0],[140.0],
+2,Celje,Radenci,70.5,True,[94.0],[245.0],
+3,Izola,Senozece,93.0,True,[93.0],[124.0],
+4,Kranj,Peercelje_0,48.0,True,[106.0],[229.3],
+5,Ajdovscina,Maribor,63.0,True,[101.0],[199.0],
+6,Portoroz,Ptuj,75.0,False,[70.0],[236.0],Koper-Ljubljana(70.0)
+7,Velenje,Postojna,112.5,True,[135.8],[212.1],
+8,Ravnettnattkoroskem,Novottmesto,48.0,True,[51.2],[263.3],
+9,Kranj,Novottmesto,45.0,True,[100.5],[203.0],
+10,Jesenice,Slovenjttgradec,78.0,False,[52.0],[197.0],Dravograd-Slovenjttgradec(52.0)
+11,Ljubljana,Ravnettnattkoroskem,81.0,False,[54.0],[183.0],Maribor-Dravograd(77.0); Dravograd-Ravnettnattkoroskem(54.0)
+12,Velenje,Koper,99.0,False,[46.0],[199.0],Velenje-Dravograd(46.0)
+13,Sezana,Celje,141.0,False,[],[],
+14,Sezana,Peercelje_0,79.5,True,[92.6],[211.0],
+15,Krsko,Lasko,115.5,False,[46.0],[249.7],Krsko-Novottmesto(77.0); Novottmesto-Kovevje(46.0)
+16,Ljubljana,Portoroz,99.0,False,[19.8],[87.8],Ljubljana-Kranj(42.0); Kranj-Koper(87.8); Koper-Divaca(68.0); Divaca-Portoroz(19.8)
+17,Dravograd,Senozece,112.5,False,[45.0],[185.0],Maribor-Ljubljana(99.0); Postojna-Senozece(45.0)
+18,Kranj,Ajdovscina,121.5,False,[30.3],[169.8],Novattgorica-Ajdovscina(30.3)
+19,Postojna,Slovenskattbistrica,97.5,True,[147.0],[219.0],
+20,Dravograd,Novottmesto,112.5,True,[164.0],[250.0],
+21,Lasko,Jesenice,48.0,False,[],[],
+22,Rogasjattslatina,Novattgorica,94.5,True,[125.4],[263.0],
+23,Lasko,Slovenjttgradec,126.0,False,[50.4],[125.0],Lasko-Maribor(84.0); Maribor-Dravograd(125.0); Dravograd-Slovenjttgradec(50.4)
+24,Divaca,Radenci,72.0,True,[80.0],[200.0],
+25,Ajdovscina,Kranj,147.0,True,[179.4],[196.0],
+26,Postojna,Murskattsobota,139.5,False,[84.0],[288.0],Postojna-Ljubljana(84.0); Radenci-Murskattsobota(126.0)
+27,Rogasjattslatina,Divaca,64.5,False,[],[],
+28,Trbovlje,Bled,108.0,False,[52.0],[99.0],Trbovlje-Ljubljana(52.0); Ljubljana-Kranj(99.0); Kranj-Bled(83.0)
+29,Sezana,Ormoz,55.5,False,[],[],
+30,Portoroz,Murskattsobota,127.5,False,[],[],
+31,Jesenice,Velenje,60.0,True,[66.0],[186.0],
+32,Izola,Kovevje,136.5,True,[137.0],[182.0],
+33,Koper,Sezana,145.5,False,[129.4],[296.0],Koper-Divaca(129.4)
+34,Tolmin,Senozece,100.5,True,[199.0],[234.0],
+35,Novattgorica,Divaca,133.5,False,[70.0],[187.0],Novattgorica-Ajdovscina(70.0)
+36,Ajdovscina,Kovevje,120.0,False,[],[],
+37,Sezana,Trbovlje,106.5,True,[174.0],[249.0],
+38,Ajdovscina,Bled,84.0,True,[104.0],[181.0],
+39,Velenje,Kovevje,108.0,True,[121.0],[251.8],
+40,Peercelje_0,Gornjattradgona,100.5,True,[119.0],[245.0],
+41,Ajdovscina,Bled,97.5,False,[27.3],[101.4],Novattgorica-Tolmin(45.5); Tolmin-Bled(27.3)
+42,Jesenice,Novattgorica,87.0,False,[84.1],[137.5],Ljubljana-Novattgorica(84.1)
+43,Ljubljana,Portoroz,127.5,False,[86.1],[167.2],Ljubljana-Koper(86.1); Koper-Divaca(115.1)
+44,Kovevje,Murskattsobota,69.0,True,[92.0],[205.8],
+45,Trbovlje,Jesenice,111.0,False,[],[],
+46,Ljubljana,Divaca,82.5,False,[],[],
+47,Ormoz,Novottmesto,150.0,False,[35.0],[207.0],Ptuj-Rogasjattslatina(110.0); Krsko-Novottmesto(35.0)
+48,Peercelje_0,Senozece,67.5,True,[110.8],[243.0],
+49,Maribor,Jesenice,61.5,False,[],[],
+50,Peercelje_0,Koper,67.5,True,[87.0],[204.8],
+51,Ormoz,Ravnettnattkoroskem,49.5,False,[18.6],[201.3],Ptuj-Maribor(46.8); Kamnik-Celje(37.3); Velenje-Dravograd(18.6)
+52,Rogasjattslatina,Izola,133.5,False,[38.0],[169.0],Rogasjattslatina-Ptuj(70.0); Ptuj-Maribor(38.0); Koper-Izola(74.0)
+53,Tolmin,Rogasjattslatina,52.5,True,[60.0],[194.8],
+54,Velenje,Portoroz,64.5,True,[99.9],[181.2],
+55,Slovenskattbistrica,Trbovlje,144.0,False,[129.6],[271.0],Lasko-Trbovlje(129.6)
+56,Trbovlje,Sezana,90.0,False,[],[],
+57,Ravnettnattkoroskem,Lasko,145.5,False,[125.8],[251.0],Dravograd-Maribor(135.8); Ljubljana-Lasko(125.8)
+58,Gornjattradgona,Tolmin,46.5,True,[62.0],[234.1],
+59,Jesenice,Kovevje,144.0,False,[96.0],[195.0],Jesenice-Kranj(96.0); Kranj-Ljubljana(96.0)
+60,Kovevje,Senozece,121.5,True,[187.4],[268.0],
+61,Peercelje_0,Kovevje,141.0,False,[136.3],[250.3],Celje-Kamnik(136.3)
+62,Celje,Ormoz,132.0,True,[139.0],[180.0],
+63,Kranj,Sezana,127.5,True,[170.0],[263.0],
+64,Portoroz,Ravnettnattkoroskem,106.5,False,[],[],
+65,Slovenskattbistrica,Kovevje,67.5,False,[],[],
+66,Novattgorica,Gornjattradgona,64.5,True,[132.0],[214.7],
+67,Peercelje_0,Trbovlje,76.5,False,[],[],
+68,Portoroz,Bled,70.5,False,[],[],
+69,Celje,Ajdovscina,138.0,False,[],[],
+70,Murskattsobota,Senozece,54.0,True,[95.8],[175.0],
+71,Gornjattradgona,Peercelje_0,96.0,False,[74.5],[219.0],Maribor-Lasko(74.5)
+72,Ravnettnattkoroskem,Radenci,90.0,True,[127.0],[182.8],
+73,Lasko,Krsko,115.5,False,[15.0],[160.0],Novottmesto-Krsko(15.0)
+74,Celje,Ljutomer,78.0,True,[116.0],[253.0],
+75,Jesenice,Lasko,138.0,False,[127.2],[299.8],Maribor-Lasko(127.2)
+76,Slovenjttgradec,Lasko,70.5,False,[],[],
+77,Peercelje_0,Kranj,118.5,False,[],[],
+78,Postojna,Velenje,82.5,False,[],[],
+79,Slovenjttgradec,Koper,49.5,False,[],[],
+80,Kamnik,Rogasjattslatina,117.0,False,[46.8],[201.3],Maribor-Ptuj(46.8); Ptuj-Rogasjattslatina(57.0)
+81,Kovevje,Divaca,123.0,True,[164.0],[232.8],
+82,Trbovlje,Murskattsobota,111.0,False,[],[],
+83,Ravnettnattkoroskem,Bled,60.0,True,[71.0],[217.6],
+84,Ormoz,Trbovlje,51.0,False,[10.2],[166.8],Ptuj-Maribor(46.8); Ljubljana-Trbovlje(10.2)
+85,Peercelje_0,Postojna,108.0,True,[124.0],[259.0],
+86,Kamnik,Dravograd,121.5,False,[39.0],[152.0],Celje-Velenje(58.2); Velenje-Dravograd(39.0)
+87,Izola,Lasko,84.0,False,[75.6],[177.0],Koper-Ljubljana(75.6)
+88,Kranj,Peercelje_0,57.0,True,[82.9],[248.0],
+89,Gornjattradgona,Velenje,61.5,False,[53.3],[82.0],Maribor-Dravograd(55.0); Dravograd-Velenje(53.3)
+90,Portoroz,Sezana,102.0,True,[166.0],[254.0],
+91,Jesenice,Trbovlje,64.5,True,[130.0],[227.3],
+92,Slovenskattbistrica,Ormoz,96.0,False,[],[],
+93,Bled,Portoroz,148.5,False,[],[],
+94,Koper,Dravograd,45.0,True,[142.0],[218.5],
+95,Maribor,Bled,54.0,True,[107.0],[262.2],
+96,Kranj,Peercelje_0,109.5,True,[170.0],[218.4],
+97,Slovenjttgradec,Novottmesto,96.0,False,[36.0],[174.0],Slovenjttgradec-Dravograd(50.0); Ljubljana-Kovevje(36.0); Kovevje-Novottmesto(64.0)
+98,Slovenjttgradec,Ajdovscina,69.0,False,[33.8],[201.2],Slovenjttgradec-Dravograd(33.8); Novattgorica-Ajdovscina(68.7)
+99,Izola,Jesenice,105.0,False,[],[],
+100,Kamnik,Radenci,108.0,True,[179.4],[264.0],
+101,Sezana,Jesenice,103.5,False,[86.0],[213.0],Sezana-Senozece(86.0); Senozece-Postojna(86.0); Kranj-Jesenice(89.0)
+102,Novottmesto,Lasko,67.5,True,[96.0],[168.0],
+103,Velenje,Rogasjattslatina,84.0,False,[],[],
+104,Ormoz,Dravograd,117.0,True,[127.8],[277.0],
+105,Ptuj,Novattgorica,48.0,True,[201.0],[229.0],
+106,Gornjattradgona,Postojna,112.5,False,[66.5],[199.0],Maribor-Ljubljana(66.5); Ljubljana-Postojna(75.0)
+107,Jesenice,Ljutomer,144.0,False,[],[],
+108,Portoroz,Kranj,60.0,True,[74.0],[216.0],
+109,Bled,Kovevje,132.0,True,[168.6],[288.0],
+110,Jesenice,Velenje,45.0,True,[51.0],[202.0],
+111,Izola,Tolmin,106.5,False,[58.0],[99.0],Izola-Koper(99.0); Koper-Kranj(67.1); Kranj-Bled(58.0); Bled-Tolmin(67.1)
+112,Jesenice,Tolmin,91.5,False,[36.6],[140.6],Jesenice-Kranj(61.0); Kranj-Ljubljana(66.2); Novattgorica-Tolmin(36.6)
+113,Ravnettnattkoroskem,Ljubljana,84.0,False,[],[],
+114,Ajdovscina,Sezana,121.5,False,[81.0],[111.0],Ajdovscina-Divaca(81.0); Divaca-Senozece(111.0); Senozece-Sezana(81.0)
+115,Kamnik,Portoroz,52.5,False,[35.0],[185.0],Divaca-Portoroz(35.0)
+116,Peercelje_0,Kranj,48.0,True,[73.1],[195.0],
+117,Rogasjattslatina,Senozece,48.0,False,[32.0],[209.8],Ljubljana-Postojna(32.0); Postojna-Senozece(32.0)
+118,Kranj,Peercelje_0,121.5,True,[134.8],[221.8],
+119,Trbovlje,Ormoz,76.5,True,[89.0],[174.0],
+120,Kamnik,Tolmin,144.0,False,[57.6],[150.6],Kamnik-Ljubljana(96.0); Novattgorica-Tolmin(57.6)
+121,Peercelje_0,Slovenjttgradec,91.5,False,[],[],
+122,Senozece,Krsko,72.0,True,[87.0],[233.0],
+123,Ptuj,Trbovlje,69.0,False,[46.0],[197.0],Lasko-Trbovlje(46.0)
+124,Portoroz,Postojna,120.0,False,[],[],
+125,Ravnettnattkoroskem,Radenci,60.0,True,[92.4],[227.8],
+126,Dravograd,Ajdovscina,73.5,False,[72.5],[226.0],Novattgorica-Ajdovscina(72.5)
+127,Divaca,Dravograd,64.5,True,[100.5],[194.0],
+128,Koper,Sezana,126.0,False,[29.4],[191.0],Divaca-Senozece(29.4); Senozece-Sezana(84.0)
+129,Gornjattradgona,Novottmesto,127.5,True,[170.0],[281.0],

@@ -1,0 +1,11 @@
+verifier:
+  ckpt_path: "checkpoints/verifier/multimodal_multitask_model.pth"
+  device: "cpu"
+
+  aug_data_path: "src/verifier/legacy/CPV/data/augmented_dataset_all.json"
+
+  num_links: 100
+
+  export_env:
+    CPV_MODEL_PATH: "${verifier.ckpt_path}"
+    AUG_DATA_PATH: "${verifier.aug_data_path}"

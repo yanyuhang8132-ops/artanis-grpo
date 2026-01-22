@@ -1,0 +1,43 @@
+paths:
+  base_model: "INFOCOM26-Intent-Model/model/LLM-Research/Meta-Llama-3-8B-Instruct"
+  init_adapter: "INFOCOM26-Intent-Model/output/llama3_network_config_lora/adapter"
+  augmented_dataset_all: "data/augmented_dataset_all.json"
+
+data:
+  train_json: "data/train_70.json"
+  eval_json: "data/test_70.json"
+  train_limit: null
+  eval_limit: 200
+
+output:
+  output_root: "output/grpo"
+  exp_name: null
+
+train:
+  seed: 42
+  epochs: 7
+  lr: 5.0e-6
+  per_device_batch_size: 1
+  grad_accum: 8
+  resume_from_checkpoint: null
+
+grpo:
+  num_generations: 4
+  temperature: 0.7
+  max_new_tokens: 512
+  beta: 0.0
+
+logging:
+  logging_steps: 10
+  save_steps: 200
+  save_total_limit: 3
+
+reward_debug:
+  verbose: false
+  log_first_n_zero: 0
+
+inference:
+  temperature: 0.7
+  top_p: 0.9
+  max_new_tokens: 512
+  do_sample: true

@@ -1,0 +1,27 @@
+grpo:
+  train_file: "data/processed/grpo_json/train_30.json"
+  test_file: "data/processed/grpo_json/test_30.json"
+
+  dry_run: true
+  num_generations: 4
+  max_steps: 5
+  seed: 42
+
+  out_dir: "experiments/runs/grpo_dryrun_30"
+
+  raw_idx_field: null
+  completion_field: "output"
+
+  translator_model_path: "src/translator/legacy/INFOCOM26-Intent-Model/model/LLM-Research/Meta-Llama-3-8B-Instruct"
+  translator_adapter_path: "checkpoints/translator/grpo_lora"
+
+  lr: 1e-4
+  beta_kl: 0.02
+  clip_eps: 0.2
+  max_new_tokens: 516
+  temperature: 0.7
+  top_p: 0.95
+  grad_accum: 1
+
+  save_every: 50
+  device: "cuda"

@@ -1,0 +1,17 @@
+{
+  "inference_info": {
+    "total_samples": 300,
+    "timestamp": "2025-07-20T11:50:19.831983",
+    "parameters": {
+      "max_new_tokens": 512,
+      "temperature": 0.7,
+      "top_p": 0.9
+    },
+    "timing_statistics": {
+      "total_time": 2447.286,
+      "average_inference_time": 8.151,
+      "min_inference_time": 5.857,
+      "max_inference_time": 21.803
+    }
+  }
+}

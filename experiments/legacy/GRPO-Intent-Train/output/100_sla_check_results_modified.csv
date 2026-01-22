@@ -1,0 +1,132 @@
+sample_id,source,destination,sla,satisfied,min_bw_top_paths,max_bw_top_paths,unsatisfied_links
+summary,,,,48.15%,,,
+0,Catania,Bari,104.0,False,[],[],
+1,Boston,Lille,162.0,False,[28.3],[158.0],Boston-London(158.0); London-NodeID62(28.3); NodeID62-Lille(66.4)
+2,NewTTYork,Brussels,128.0,False,[],[],
+3,Winterthur,Bordeaux,166.0,False,[32.0],[194.0],Zurich-Basel(32.0); Basel-Strasbourg(88.5); Paris-Rouen(155.5); Rouen-Rennes(103.0); Rennes-Nantes(103.0); Nantes-Bordeaux(103.0)
+4,Birmingham,Evere,148.0,True,[221.8],[282.8],
+5,Anderlecht,Birmingham,60.0,False,[30.0],[186.0],Anderlecht-Brussels(30.0); Manchester-Birmingham(33.0)
+6,Bern,Zurich,104.0,False,[52.0],[177.0],Bern-NodeID73(52.0)
+7,Stuttgart,Bologna,80.0,True,[84.8],[245.0],
+8,Brindisi,Chiasso,126.0,False,[22.4],[180.2],Brindisi-Rome(63.0); Rome-Firenze(22.4)
+9,Rome,Rimini,88.0,True,[96.8],[157.0],
+10,NodeID73,Esslingen,94.0,False,[],[],
+11,Zug,Bristol,66.0,False,[42.0],[234.0],London-Dublin(42.0); Dublin-Bristol(42.0)
+12,Biel_Bienne,NodeID79,136.0,False,[131.2],[296.4],Basel-Strasbourg(131.2)
+13,Kortnijk,Lyon,116.0,False,[],[],
+14,Ostend,Paris,98.0,False,[54.0],[145.3],Ostend-Ghent(54.0)
+15,Boston,Novara,136.0,False,[68.0],[265.1],Boston-London(128.0); London-Newark(105.8); Milan-Novara(68.0)
+16,Cagliari,Trieste,146.0,True,[160.6],[287.6],
+17,Toulouse,Valencia,64.0,True,[87.3],[203.6],
+18,Mons,Paris,66.0,False,[],[],
+19,Barcelona,Novara,116.0,True,[127.6],[259.6],
+20,Dijon,Brescia,90.0,False,[],[],
+21,Brussels,Munich,86.0,False,[],[],
+22,Biella,Chicago,98.0,False,[],[],
+23,NewTTYork,PeerBarcelona_0,76.0,False,[],[],
+24,Catania,Rennes,196.0,False,[194.6],[327.8],Rome-Firenze(194.6)
+25,Newark,Charleroi,168.0,True,[184.8],[287.8],
+26,Nyon,Biel_Bienne,124.0,False,[45.0],[62.0],Nyon-Lausanne(59.4); Lausanne-NodeID73(62.0); NodeID73-Biel_Bienne(45.0)
+27,Brindisi,Livorno,64.0,False,[],[],
+28,Leuven,Mannheim,102.0,False,[],[],
+29,Dijon,Sintra,64.0,True,[70.4],[238.4],
+30,Trento,Verona,82.0,False,[],[],
+31,Catania,Bologna,116.0,False,[],[],
+32,Schaffhausen,Rouen,118.0,True,[129.8],[286.0],
+33,Trieste,Winterthur,60.0,False,[],[],
+34,Anderlecht,NodeID62,62.0,False,[31.0],[142.2],Anderlecht-Brussels(31.0)
+35,NewTTYork,Mons,138.0,False,[103.0],[201.2],NewTTYork-London(103.0)
+36,Lyon,Parma,158.0,True,[247.8],[300.4],
+37,Grenoble,NodeID79,178.0,True,[195.8],[254.7],
+38,Ostend,Livorno,118.0,False,[],[],
+39,Rimini,Esslingen,98.0,False,[],[],
+40,Antwerp,Biella,70.0,True,[103.0],[256.6],
+41,Porto,Dijon,64.0,False,[],[],
+42,Grenoble,Chiasso,166.0,True,[182.6],[287.6],
+43,Trieste,Cagliari,86.0,False,[],[],
+44,StTTGallen,Firenze,96.0,True,[105.6],[243.6],
+45,Luxembourg,StTTGallen,160.0,False,[],[],
+46,NodeID62,Bergamo,84.0,False,[58.0],[221.4],NodeID62-London(73.0); Firenze-Rome(58.0)
+47,Barcelona,Ostend,194.0,False,[],[],
+48,Evere,Reading,120.0,False,[],[],
+49,Biel_Bienne,Zug,124.0,False,[62.0],[206.3],Biel_Bienne-NodeID73(62.0); NodeID73-Basel(82.0)
+50,Varese,StTTGallen,104.0,False,[],[],
+51,Schaffhausen,Bristol,62.0,True,[112.2],[228.2],
+52,Karlsruhe,Marseille,124.0,True,[194.0],[265.5],
+53,Boston,Nantes,62.0,True,[87.0],[176.2],
+54,Livorno,Zug,152.0,False,[131.4],[265.4],Milan-Como(131.4)
+55,Novara,Turin,158.0,True,[175.8],[281.8],
+56,Luxembourg,Lucerne,190.0,False,[],[],
+57,Genova,NodeID62,60.0,True,[96.4],[243.2],
+58,Toulouse,PeerBarcelona_0,192.0,False,[90.0],[150.0],Toulouse-NodeID79(90.0); NodeID79-Barcelona(150.0); Barcelona-PeerBarcelona_0(96.0)
+59,Newark,Esslingen,146.0,False,[],[],
+60,NewTTYork,Mons,176.0,True,[193.6],[262.0],
+61,Schaffhausen,Chiasso,186.0,False,[171.5],[252.6],Lucerne-Lugano(171.5)
+62,Catania,Biella,126.0,True,[161.6],[257.6],
+63,Dijon,Leuven,72.0,True,[79.2],[244.0],
+64,Toulouse,Reading,200.0,True,[205.0],[246.6],
+65,Bologna,Borgomanero,68.0,False,[],[],
+66,Luxembourg,Paris,64.0,False,[50.0],[174.2],Luxembourg-Brussels(50.0)
+67,Toulouse,Valencia,94.0,False,[32.9],[42.0],Toulouse-NodeID79(42.0); NodeID79-Barcelona(36.0); Barcelona-Valencia(32.9)
+68,Madrid,Esslingen,90.0,False,[],[],
+69,Schaffhausen,Munich,122.0,False,[],[],
+70,Borgomanero,Bari,62.0,False,[],[],
+71,Treviso,Montpellier,64.0,False,[],[],
+72,Vicenza,Bordeaux,128.0,False,[],[],
+73,Strasbourg,Liege,170.0,True,[187.0],[323.6],
+74,Paris,Anderlecht,68.0,False,[],[],
+75,Toulouse,Munich,98.0,False,[],[],
+76,Biella,Toulouse,68.0,False,[59.5],[226.8],Marseille-Montpellier(59.5); Montpellier-NodeID79(59.5); NodeID79-Toulouse(59.5)
+77,Kortnijk,Dublin,108.0,False,[95.8],[163.8],London-Dublin(95.8)
+78,Leuven,NodeID73,68.0,False,[],[],
+79,Catania,Zug,80.0,True,[118.0],[322.7],
+80,Catania,Nice,68.0,True,[148.8],[216.4],
+81,Varese,Verona,140.0,False,[],[],
+82,Montpellier,Liege,136.0,False,[68.0],[246.4],Brussels-Liege(68.0)
+83,Rome,Novara,60.0,True,[66.0],[173.9],
+84,Rouen,Lucerne,108.0,False,[39.0],[220.3],Rouen-Paris(39.0); Basel-Zurich(67.3)
+85,Rimini,Lugano,74.0,False,[],[],
+86,Barcelona,Zug,134.0,False,[86.2],[196.0],Barcelona-NodeID79(86.2); NodeID79-Montpellier(89.0); Montpellier-Marseille(89.0)
+87,London,Catania,144.0,False,[128.4],[333.6],Rome-Catania(128.4)
+88,Bologna,Dijon,90.0,False,[],[],
+89,Lisbon,Genova,132.0,False,[66.0],[200.4],Lisbon-Madrid(66.0); Bordeaux-Toulouse(86.3); Toulouse-NodeID79(92.5); Milan-Genova(85.0)
+90,StTTGallen,NodeID79,90.0,True,[92.4],[259.5],
+91,Grenoble,Tours,76.0,True,[83.6],[191.8],
+92,Barcelona,Toulouse,140.0,False,[70.0],[151.5],NodeID79-Toulouse(70.0)
+93,Liege,Firenze,68.0,True,[133.0],[189.1],
+94,Leuven,Bristol,88.0,False,[],[],
+95,Chiasso,Lisbon,94.0,False,[66.0],[193.0],Montpellier-NodeID79(80.0); Toulouse-Bordeaux(85.0); Madrid-Lisbon(66.0)
+96,Bern,Stuttgart,182.0,True,[200.2],[306.2],
+97,Brussels,Biella,98.0,False,[75.9],[276.8],Ghent-Lille(75.9)
+98,Como,Leuven,124.0,True,[141.0],[281.1],
+99,Karlsruhe,Ghent,132.0,True,[242.5],[272.2],
+100,Reading,Toulouse,98.0,False,[],[],
+101,NodeID62,Birmingham,174.0,False,[],[],
+102,Bergamo,Cagliari,184.0,False,[50.0],[163.0],Bergamo-Milan(163.0); Milan-Genova(149.0); Genova-Firenze(149.0); Firenze-Rome(92.0); Rome-Cagliari(50.0)
+103,Dijon,Lisbon,66.0,False,[],[],
+104,Cagliari,Winterthur,146.0,False,[120.6],[254.1],Rome-Firenze(120.6)
+105,Genova,Chiasso,64.0,True,[219.4],[284.5],
+106,Rome,Manchester,200.0,False,[286.0],[396.2],
+107,Brescia,Zurich,164.0,False,[],[],
+108,Biel_Bienne,Chiasso,68.0,False,[57.8],[224.8],Basel-Zurich(57.8)
+109,Treviso,Winterthur,90.0,False,[],[],
+110,Newark,Padova,68.0,False,[14.0],[197.0],Bergamo-Brescia(14.0); Brescia-Verona(14.0); Verona-Padova(17.2)
+111,Tours,NodeID62,200.0,False,[155.0],[274.0],Tours-Paris(155.0); Lille-NodeID62(160.0)
+112,Nice,Dijon,82.0,False,[],[],
+113,Antwerp,Zug,156.0,True,[220.6],[333.9],
+114,Lisbon,Paris,144.0,False,[133.2],[291.0],Nantes-Rennes(133.2)
+115,Antwerp,Dublin,172.0,False,[],[],
+116,Modena,Ghent,60.0,True,[72.0],[234.4],
+117,Strasbourg,Schaffhausen,128.0,False,[],[],
+118,Ostend,Reading,98.0,False,[],[],
+119,Novara,Padova,82.0,False,[],[],
+120,Bern,Boston,78.0,True,[84.8],[263.6],
+121,NewTTYork,Evere,66.0,False,[],[],
+122,Poitiers,Rouen,88.0,True,[96.8],[211.8],
+123,Esslingen,Bologna,68.0,False,[34.0],[193.0],Esslingen-Stuttgart(34.0); Firenze-Bologna(59.0)
+124,Madrid,Brussels,88.0,False,[],[],
+125,Toulouse,Sintra,168.0,False,[146.8],[257.6],Madrid-Lisbon(146.8)
+126,Piacenza,Lucerne,68.0,False,[49.0],[166.5],Piacenza-Milan(49.0); Chiasso-Lugano(52.7)
+127,Como,Brescia,78.0,False,[52.6],[127.8],Bergamo-Brescia(52.6)
+128,Schaffhausen,Rouen,80.0,True,[88.0],[247.3],
+129,Bern,Esslingen,128.0,False,[109.8],[301.0],NodeID73-Basel(109.8)
