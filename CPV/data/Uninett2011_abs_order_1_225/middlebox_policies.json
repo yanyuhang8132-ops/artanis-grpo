@@ -1,0 +1,400 @@
+{
+  "scenario_id": 0,
+  "lb_rules": {
+    "Hinettsandnesjoen": {
+      "[Hinettnesna,Hhttevenstad]": {
+        "next_hops": [
+          "Ntnutthovedbygget",
+          "Hbottbodo"
+        ],
+        "weights": [
+          0.3,
+          0.7
+        ],
+        "prev_hop": "Hinettnesna"
+      }
+    },
+    "Uioid1": {
+      "[Nordunetttstockholmid58,Hsmttkristiansun]": {
+        "next_hops": [
+          "Ntnuttrealfagbygget",
+          "Hiotthalden"
+        ],
+        "weights": [
+          0.6,
+          0.4
+        ],
+        "prev_hop": "Nordunetttstockholmid58"
+      }
+    },
+    "Hiftthammerfest": {
+      "[Hifttvadso,Nyalesund]": {
+        "next_hops": [
+          "Hifttalta",
+          "Uito"
+        ],
+        "weights": [
+          0.35,
+          0.65
+        ],
+        "prev_hop": "Hifttvadso"
+      }
+    },
+    "Stockholm": {
+      "[Nordunetttstockholm,Hhttelverum]": {
+        "next_hops": [
+          "Uioid1",
+          "Hinttnarvik"
+        ],
+        "weights": [
+          0.45,
+          0.55
+        ],
+        "prev_hop": "Nordunetttstockholm"
+      }
+    },
+    "Hibuttdrammen": {
+      "[Hibuttkongsberg,Nordunetttstockholm]": {
+        "next_hops": [
+          "Uiottstttolavsplasstt5",
+          "Hitttbo"
+        ],
+        "weights": [
+          0.35,
+          0.65
+        ],
+        "prev_hop": "Hibuttkongsberg"
+      }
+    },
+    "Ntnutthovedbygget": {
+      "[Hintttsteinkjer,Hiakttkjeller]": {
+        "next_hops": [
+          "Ntnuttrealfagbygget",
+          "Hiattalesund"
+        ],
+        "weights": [
+          0.3,
+          0.7
+        ],
+        "prev_hop": "Hintttsteinkjer"
+      }
+    },
+    "Uiottstttolavsplasstt5": {
+      "[Nordunetttkobenhavn,Hibuttkongsberg]": {
+        "next_hops": [
+          "Hibuttdrammen",
+          "Higttgjovik"
+        ],
+        "weights": [
+          0.4,
+          0.6
+        ],
+        "prev_hop": "Nordunetttkobenhavn"
+      }
+    },
+    "Nbttmottittrana": {
+      "[Hinettnesna,Uioid1]": {
+        "next_hops": [
+          "Ntnuttrealfagbygget",
+          "Hbottbodo"
+        ],
+        "weights": [
+          0.35,
+          0.65
+        ],
+        "prev_hop": "Hinettnesna"
+      }
+    },
+    "Uisttstavanger": {
+      "[Vethsttsandnes,Hiotthalden]": {
+        "next_hops": [
+          "Uiattkristiansand",
+          "Hshtthaugesund"
+        ],
+        "weights": [
+          0.7,
+          0.3
+        ],
+        "prev_hop": "Vethsttsandnes"
+      }
+    },
+    "Uibtthoyteklogibygget": {
+      "[Uibttbt,Hilttlillehammer]": {
+        "next_hops": [
+          "Uiottstttolavsplasstt5",
+          "Hiattalesund"
+        ],
+        "weights": [
+          0.7,
+          0.3
+        ],
+        "prev_hop": "Uibttbt"
+      }
+    },
+    "Hitttbo": {
+      "[Hitttporsgrunn,Hiakttkjeller]": {
+        "next_hops": [
+          "Hibuttdrammen",
+          "Uio"
+        ],
+        "weights": [
+          0.45,
+          0.55
+        ],
+        "prev_hop": "Hitttporsgrunn"
+      }
+    },
+    "Uitoid43": {
+      "[Hifttalta,Hiattalesund]": {
+        "next_hops": [
+          "Ntnuttrealfagbygget",
+          "Hihttharstad"
+        ],
+        "weights": [
+          0.5,
+          0.5
+        ],
+        "prev_hop": "Hifttalta"
+      }
+    },
+    "Uio": {
+      "[Ntnutthovedbygget,Hhttelverum]": {
+        "next_hops": [
+          "Hhttkongsvinger",
+          "Hitttbo"
+        ],
+        "weights": [
+          0.45,
+          0.55
+        ],
+        "prev_hop": "Uiottstttolavsplasstt5"
+      }
+    },
+    "Hinttnarvik": {
+      "[Hihttharstad,Hitttnotodden]": {
+        "next_hops": [
+          "Ntnutthovedbygget",
+          "Hbottbodo"
+        ],
+        "weights": [
+          0.6,
+          0.4
+        ],
+        "prev_hop": "Hihttharstad"
+      }
+    },
+    "Uito": {
+      "[Hiftthammerfest,Uiottstttolavsplasstt5]": {
+        "next_hops": [
+          "Hinttnarvik",
+          "Uitoid43"
+        ],
+        "weights": [
+          0.4,
+          0.6
+        ],
+        "prev_hop": "Hiftthammerfest"
+      }
+    },
+    "Ntnuttrealfagbygget": {
+      "[Hinettmottittrana,Hvettlarvik]": {
+        "next_hops": [
+          "Ntnutthovedbygget",
+          "Hingttstjordal"
+        ],
+        "weights": [
+          0.55,
+          0.45
+        ],
+        "prev_hop": "Nbttmottittrana"
+      }
+    },
+    "Hifttalta": {
+      "[Uio,Hifttvadso]": {
+        "next_hops": [
+          "Hiftthammerfest",
+          "Sa_shttkautokeino"
+        ],
+        "weights": [
+          0.5,
+          0.5
+        ],
+        "prev_hop": "Uitoid43"
+      }
+    },
+    "Hvettborre": {
+      "[Hvettlarvik,Hshtthaugesund]": {
+        "next_hops": [
+          "Hibuttdrammen",
+          "Hiottfredrikstad"
+        ],
+        "weights": [
+          0.6,
+          0.4
+        ],
+        "prev_hop": "Hvettlarvik"
+      }
+    },
+    "Hihttharstad": {
+      "[Unisttsvalbard,Hintttnamsos]": {
+        "next_hops": [
+          "Hbottbodo",
+          "Hinttnarvik"
+        ],
+        "weights": [
+          0.55,
+          0.45
+        ],
+        "prev_hop": "Unisttsvalbard"
+      }
+    },
+    "Hingttstjordal": {
+      "[Peerhingttstjordal_0,Nbttmottittrana]": {
+        "next_hops": [
+          "Ntnuttrealfagbygget",
+          "Hintttlevanger"
+        ],
+        "weights": [
+          0.7,
+          0.3
+        ],
+        "prev_hop": "Peerhingttstjordal_0"
+      }
+    }
+  },
+  "acl_rules": {
+    "Uninettttteknobyen": {
+      "[Hinettnesna,Hhttevenstad]": {
+        "rate_limit": 14
+      }
+    },
+    "Hibuttdrammen": {
+      "[Nordunetttstockholmid58,Hsmttkristiansun]": {
+        "rate_limit": 9
+      }
+    },
+    "Unisttsvalbard": {
+      "[Hifttvadso,Nyalesund]": {
+        "rate_limit": 14
+      }
+    },
+    "Uio": {
+      "[Nordunetttstockholm,Hhttelverum]": {
+        "rate_limit": 13
+      }
+    },
+    "Hitttbo": {
+      "[Hibuttkongsberg,Nordunetttstockholm]": {
+        "rate_limit": 16
+      }
+    },
+    "Hiattalesund": {
+      "[Hintttsteinkjer,Hiakttkjeller]": {
+        "rate_limit": 15
+      }
+    },
+    "Hhttelverum": {
+      "[Nordunetttkobenhavn,Hibuttkongsberg]": {
+        "rate_limit": 9
+      }
+    },
+    "Hbottbodo": {
+      "[Hinettnesna,Uioid1]": {
+        "rate_limit": 12
+      },
+      "[Hihttharstad,Hitttnotodden]": {
+        "rate_limit": 6
+      }
+    },
+    "Hshttstord": {
+      "[Vethsttsandnes,Hiotthalden]": {
+        "rate_limit": 8
+      }
+    },
+    "Higttgjovik": {
+      "[Uibttbt,Hilttlillehammer]": {
+        "rate_limit": 7
+      },
+      "[Unikttkjeller,Hilttlillehammer]": {
+        "rate_limit": 29
+      },
+      "[Hitttbo,Hilttlillehammer]": {
+        "rate_limit": 18
+      }
+    },
+    "Unikttkjeller": {
+      "[Hitttporsgrunn,Hiakttkjeller]": {
+        "rate_limit": 9
+      },
+      "[Sa_shttkautokeino,Hiakttkjeller]": {
+        "rate_limit": 13
+      }
+    },
+    "Hinttnarvik": {
+      "[Hifttalta,Hiattalesund]": {
+        "rate_limit": 13
+      }
+    },
+    "Hiottfredrikstad": {
+      "[Ntnutthovedbygget,Hhttelverum]": {
+        "rate_limit": 12
+      }
+    },
+    "Ntnuttrealfagbygget": {
+      "[Hiftthammerfest,Uiottstttolavsplasstt5]": {
+        "rate_limit": 10
+      }
+    },
+    "Hintttlevanger": {
+      "[Hinettmottittrana,Hvettlarvik]": {
+        "rate_limit": 12
+      },
+      "[Peerhingttstjordal_0,Nbttmottittrana]": {
+        "rate_limit": 7
+      }
+    },
+    "Uitottkarasjok": {
+      "[Uio,Hifttvadso]": {
+        "rate_limit": 11
+      }
+    },
+    "Uibttbt": {
+      "[Hvettlarvik,Hshtthaugesund]": {
+        "rate_limit": 6
+      }
+    },
+    "Hintttsteinkjer": {
+      "[Unisttsvalbard,Hintttnamsos]": {
+        "rate_limit": 10
+      }
+    },
+    "Uiattkristiansand": {
+      "[Uisttstavanger,Uiattgrimstad]": {
+        "rate_limit": 29
+      },
+      "[Hibutthonefoss,Uisttstavanger]": {
+        "rate_limit": 11
+      }
+    },
+    "Hsfttforde": {
+      "[Hsfttsandane,Hbottbodo]": {
+        "rate_limit": 16
+      }
+    },
+    "Hifttvadso": {
+      "[Hifttkirkenes,Hibuttkongsberg]": {
+        "rate_limit": 19
+      }
+    },
+    "Hiotthalden": {
+      "[Hsfttsongdal,Hiottfredrikstad]": {
+        "rate_limit": 14
+      }
+    },
+    "Hhttkongsvinger": {
+      "[Hhttelverum,Hinettmottittrana]": {
+        "rate_limit": 12
+      }
+    }
+  }
+}

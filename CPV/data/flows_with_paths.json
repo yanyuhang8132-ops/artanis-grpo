@@ -1,0 +1,487 @@
+[
+  {
+    "flow_id": "F1",
+    "src": "Rogasjattslatina",
+    "dst": "Portoroz",
+    "sla_bw": 64,
+    "path": [
+      "Rogasjattslatina",
+      "Ptuj",
+      "Maribor",
+      "Ljubljana",
+      "Koper",
+      "Divaca",
+      "Portoroz"
+    ],
+    "src_interface_ip": "10.0.0.60",
+    "dst_interface_ip": "10.0.0.50"
+  },
+  {
+    "flow_id": "F2",
+    "src": "Koper",
+    "dst": "Ljubljana",
+    "sla_bw": 81,
+    "path": [
+      "Koper",
+      "Ljubljana"
+    ],
+    "src_interface_ip": "10.0.0.43",
+    "dst_interface_ip": "10.0.0.42"
+  },
+  {
+    "flow_id": "F3",
+    "src": "Trbovlje",
+    "dst": "Krsko",
+    "sla_bw": 69,
+    "path": [
+      "Trbovlje",
+      "Ljubljana",
+      "Kovevje",
+      "Novottmesto",
+      "Krsko"
+    ],
+    "src_interface_ip": "10.0.0.2",
+    "dst_interface_ip": "10.0.0.6"
+  },
+  {
+    "flow_id": "F4",
+    "src": "Izola",
+    "dst": "Novattgorica",
+    "sla_bw": 40,
+    "path": [
+      "Izola",
+      "Koper",
+      "Ljubljana",
+      "Novattgorica"
+    ],
+    "src_interface_ip": "10.0.0.72",
+    "dst_interface_ip": "10.0.0.35"
+  },
+  {
+    "flow_id": "F5",
+    "src": "Maribor",
+    "dst": "Lasko",
+    "sla_bw": 47,
+    "path": [
+      "Maribor",
+      "Lasko"
+    ],
+    "src_interface_ip": "10.0.0.19",
+    "dst_interface_ip": "10.0.0.18"
+  },
+  {
+    "flow_id": "F6",
+    "src": "Senozece",
+    "dst": "Peercelje_0",
+    "sla_bw": 45,
+    "path": [
+      "Senozece",
+      "Postojna",
+      "Ljubljana",
+      "Kamnik",
+      "Celje",
+      "Peercelje_0"
+    ],
+    "src_interface_ip": "10.0.0.66",
+    "dst_interface_ip": "10.0.0.17"
+  },
+  {
+    "flow_id": "F7",
+    "src": "Ravnettnattkoroskem",
+    "dst": "Maribor",
+    "sla_bw": 57,
+    "path": [
+      "Ravnettnattkoroskem",
+      "Dravograd",
+      "Maribor"
+    ],
+    "src_interface_ip": "10.0.0.93",
+    "dst_interface_ip": "10.0.0.88"
+  },
+  {
+    "flow_id": "F8",
+    "src": "Kranj",
+    "dst": "Postojna",
+    "sla_bw": 99,
+    "path": [
+      "Kranj",
+      "Ljubljana",
+      "Postojna"
+    ],
+    "src_interface_ip": "10.0.0.28",
+    "dst_interface_ip": "10.0.0.37"
+  },
+  {
+    "flow_id": "F9",
+    "src": "Novottmesto",
+    "dst": "Maribor",
+    "sla_bw": 37,
+    "path": [
+      "Novottmesto",
+      "Kovevje",
+      "Ljubljana",
+      "Maribor"
+    ],
+    "src_interface_ip": "10.0.0.32",
+    "dst_interface_ip": "10.0.0.45"
+  },
+  {
+    "flow_id": "F10",
+    "src": "Krsko",
+    "dst": "Radenci",
+    "sla_bw": 98,
+    "path": [
+      "Krsko",
+      "Rogasjattslatina",
+      "Ptuj",
+      "Maribor",
+      "Gornjattradgona",
+      "Radenci"
+    ],
+    "src_interface_ip": "10.0.0.4",
+    "dst_interface_ip": "10.0.0.55"
+  },
+  {
+    "flow_id": "F11",
+    "src": "Slovenjttgradec",
+    "dst": "Novottmesto",
+    "sla_bw": 41,
+    "path": [
+      "Slovenjttgradec",
+      "Dravograd",
+      "Maribor",
+      "Ljubljana",
+      "Kovevje",
+      "Novottmesto"
+    ],
+    "src_interface_ip": "10.0.0.74",
+    "dst_interface_ip": "10.0.0.32"
+  },
+  {
+    "flow_id": "F12",
+    "src": "Kranj",
+    "dst": "Slovenjttgradec",
+    "sla_bw": 99,
+    "path": [
+      "Kranj",
+      "Ljubljana",
+      "Maribor",
+      "Dravograd",
+      "Slovenjttgradec"
+    ],
+    "src_interface_ip": "10.0.0.28",
+    "dst_interface_ip": "10.0.0.74"
+  },
+  {
+    "flow_id": "F13",
+    "src": "Dravograd",
+    "dst": "Ravnettnattkoroskem",
+    "sla_bw": 39,
+    "path": [
+      "Dravograd",
+      "Ravnettnattkoroskem"
+    ],
+    "src_interface_ip": "10.0.0.92",
+    "dst_interface_ip": "10.0.0.93"
+  },
+  {
+    "flow_id": "F14",
+    "src": "Kovevje",
+    "dst": "Jesenice",
+    "sla_bw": 77,
+    "path": [
+      "Kovevje",
+      "Ljubljana",
+      "Kranj",
+      "Jesenice"
+    ],
+    "src_interface_ip": "10.0.0.39",
+    "dst_interface_ip": "10.0.0.23",
+    "path1": [
+      "Kovevje",
+      "Ljubljana",
+      "Kranj",
+      "Jesenice"
+    ],
+    "path2": [
+      "Kovevje",
+      "Ljubljana",
+      "Koper",
+      "Kranj",
+      "Jesenice"
+    ],
+    "src_interface_ip_path1": "10.0.0.39",
+    "dst_interface_ip_path1": "10.0.0.23",
+    "src_interface_ip_path2": "10.0.0.39",
+    "dst_interface_ip_path2": "10.0.0.23"
+  },
+  {
+    "flow_id": "F15",
+    "src": "Izola",
+    "dst": "Peercelje_0",
+    "sla_bw": 39,
+    "path": [
+      "Izola",
+      "Koper",
+      "Ljubljana",
+      "Kamnik",
+      "Celje",
+      "Peercelje_0"
+    ],
+    "src_interface_ip": "10.0.0.72",
+    "dst_interface_ip": "10.0.0.17"
+  },
+  {
+    "flow_id": "F16",
+    "src": "Velenje",
+    "dst": "Murskattsobota",
+    "sla_bw": 98,
+    "path": [
+      "Velenje",
+      "Dravograd",
+      "Maribor",
+      "Gornjattradgona",
+      "Radenci",
+      "Murskattsobota"
+    ],
+    "src_interface_ip": "10.0.0.78",
+    "dst_interface_ip": "10.0.0.59"
+  },
+  {
+    "flow_id": "F17",
+    "src": "Radenci",
+    "dst": "Kranj",
+    "sla_bw": 34,
+    "path": [
+      "Radenci",
+      "Gornjattradgona",
+      "Maribor",
+      "Ljubljana",
+      "Kranj"
+    ],
+    "src_interface_ip": "10.0.0.55",
+    "dst_interface_ip": "10.0.0.28"
+  },
+  {
+    "flow_id": "F18",
+    "src": "Krsko",
+    "dst": "Velenje",
+    "sla_bw": 35,
+    "path": [
+      "Krsko",
+      "Rogasjattslatina",
+      "Ptuj",
+      "Maribor",
+      "Dravograd",
+      "Velenje"
+    ],
+    "src_interface_ip": "10.0.0.4",
+    "dst_interface_ip": "10.0.0.78"
+  },
+  {
+    "flow_id": "F19",
+    "src": "Velenje",
+    "dst": "Postojna",
+    "sla_bw": 57,
+    "path": [
+      "Velenje",
+      "Celje",
+      "Kamnik",
+      "Ljubljana",
+      "Postojna"
+    ],
+    "src_interface_ip": "10.0.0.9",
+    "dst_interface_ip": "10.0.0.37"
+  },
+  {
+    "flow_id": "F20",
+    "src": "Jesenice",
+    "dst": "Tolmin",
+    "sla_bw": 80,
+    "path": [
+      "Jesenice",
+      "Kranj",
+      "Bled",
+      "Tolmin"
+    ],
+    "src_interface_ip": "10.0.0.23",
+    "dst_interface_ip": "10.0.0.31"
+  },
+  {
+    "flow_id": "F21",
+    "src": "Gornjattradgona",
+    "dst": "Koper",
+    "sla_bw": 54,
+    "path": [
+      "Gornjattradgona",
+      "Maribor",
+      "Ljubljana",
+      "Koper"
+    ],
+    "src_interface_ip": "10.0.0.56",
+    "dst_interface_ip": "10.0.0.43"
+  },
+  {
+    "flow_id": "F22",
+    "src": "Portoroz",
+    "dst": "Lasko",
+    "sla_bw": 34,
+    "path": [
+      "Portoroz",
+      "Divaca",
+      "Koper",
+      "Ljubljana",
+      "Lasko"
+    ],
+    "src_interface_ip": "10.0.0.50",
+    "dst_interface_ip": "10.0.0.20"
+  },
+  {
+    "flow_id": "F23",
+    "src": "Ljutomer",
+    "dst": "Gornjattradgona",
+    "sla_bw": 41,
+    "path": [
+      "Ljutomer",
+      "Murskattsobota",
+      "Radenci",
+      "Gornjattradgona"
+    ],
+    "src_interface_ip": "10.0.0.81",
+    "dst_interface_ip": "10.0.0.54"
+  },
+  {
+    "flow_id": "F24",
+    "src": "Bled",
+    "dst": "Jesenice",
+    "sla_bw": 70,
+    "path": [
+      "Bled",
+      "Kranj",
+      "Jesenice"
+    ],
+    "src_interface_ip": "10.0.0.27",
+    "dst_interface_ip": "10.0.0.23"
+  },
+  {
+    "flow_id": "F25",
+    "src": "Kamnik",
+    "dst": "Slovenjttgradec",
+    "sla_bw": 40,
+    "path": [
+      "Kamnik",
+      "Celje",
+      "Velenje",
+      "Slovenjttgradec"
+    ],
+    "src_interface_ip": "10.0.0.13",
+    "dst_interface_ip": "10.0.0.76",
+    "path1": [
+      "Kamnik",
+      "Celje",
+      "Velenje",
+      "Slovenjttgradec"
+    ],
+    "path2": [
+      "Kamnik",
+      "Celje",
+      "Lasko",
+      "Maribor",
+      "Dravograd",
+      "Slovenjttgradec"
+    ],
+    "src_interface_ip_path1": "10.0.0.13",
+    "dst_interface_ip_path1": "10.0.0.76",
+    "src_interface_ip_path2": "10.0.0.13",
+    "dst_interface_ip_path2": "10.0.0.74"
+  },
+  {
+    "flow_id": "F26",
+    "src": "Kovevje",
+    "dst": "Postojna",
+    "sla_bw": 40,
+    "path": [
+      "Kovevje",
+      "Ljubljana",
+      "Postojna"
+    ],
+    "src_interface_ip": "10.0.0.39",
+    "dst_interface_ip": "10.0.0.37"
+  },
+  {
+    "flow_id": "F27",
+    "src": "Peercelje_0",
+    "dst": "Rogasjattslatina",
+    "sla_bw": 45,
+    "path": [
+      "Peercelje_0",
+      "Celje",
+      "Lasko",
+      "Maribor",
+      "Ptuj",
+      "Rogasjattslatina"
+    ],
+    "src_interface_ip": "10.0.0.17",
+    "dst_interface_ip": "10.0.0.60"
+  },
+  {
+    "flow_id": "F28",
+    "src": "Novottmesto",
+    "dst": "Krsko",
+    "sla_bw": 51,
+    "path": [
+      "Novottmesto",
+      "Krsko"
+    ],
+    "src_interface_ip": "10.0.0.7",
+    "dst_interface_ip": "10.0.0.6"
+  },
+  {
+    "flow_id": "F29",
+    "src": "Senozece",
+    "dst": "Maribor",
+    "sla_bw": 36,
+    "path": [
+      "Senozece",
+      "Postojna",
+      "Ljubljana",
+      "Maribor"
+    ],
+    "src_interface_ip": "10.0.0.66",
+    "dst_interface_ip": "10.0.0.45"
+  },
+  {
+    "flow_id": "F30",
+    "src": "Senozece",
+    "dst": "Bled",
+    "sla_bw": 64,
+    "path": [
+      "Senozece",
+      "Divaca",
+      "Koper",
+      "Kranj",
+      "Bled"
+    ],
+    "src_interface_ip": "10.0.0.64",
+    "dst_interface_ip": "10.0.0.27",
+    "path1": [
+      "Senozece",
+      "Divaca",
+      "Koper",
+      "Kranj",
+      "Bled"
+    ],
+    "path2": [
+      "Senozece",
+      "Divaca",
+      "Ajdovscina",
+      "Novattgorica",
+      "Tolmin",
+      "Bled"
+    ],
+    "src_interface_ip_path1": "10.0.0.64",
+    "dst_interface_ip_path1": "10.0.0.27",
+    "src_interface_ip_path2": "10.0.0.64",
+    "dst_interface_ip_path2": "10.0.0.30"
+  }
+]

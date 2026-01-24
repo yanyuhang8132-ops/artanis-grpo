@@ -1,0 +1,106 @@
+节点入度和出度：
+设备: Ajdovscina
+  入度: 2
+  出度: 2
+设备: Bled
+  入度: 2
+  出度: 2
+设备: Celje
+  入度: 5
+  出度: 5
+设备: Divaca
+  入度: 4
+  出度: 4
+设备: Dravograd
+  入度: 4
+  出度: 4
+设备: Gornjattradgona
+  入度: 2
+  出度: 2
+设备: Izola
+  入度: 2
+  出度: 2
+设备: Jesenice
+  入度: 1
+  出度: 1
+设备: Kamnik
+  入度: 2
+  出度: 2
+设备: Koper
+  入度: 4
+  出度: 4
+设备: Kovevje
+  入度: 2
+  出度: 2
+设备: Kranj
+  入度: 4
+  出度: 4
+设备: Krsko
+  入度: 2
+  出度: 2
+设备: Lasko
+  入度: 4
+  出度: 4
+设备: Ljubljana
+  入度: 9
+  出度: 9
+设备: Ljutomer
+  入度: 2
+  出度: 2
+设备: Maribor
+  入度: 6
+  出度: 6
+设备: Murskattsobota
+  入度: 2
+  出度: 2
+设备: Novattgorica
+  入度: 3
+  出度: 3
+设备: Novottmesto
+  入度: 2
+  出度: 2
+设备: Ormoz
+  入度: 2
+  出度: 2
+设备: Peercelje_0
+  入度: 1
+  出度: 1
+设备: Portoroz
+  入度: 2
+  出度: 2
+设备: Postojna
+  入度: 2
+  出度: 2
+设备: Ptuj
+  入度: 3
+  出度: 3
+设备: Radenci
+  入度: 2
+  出度: 2
+设备: Ravnettnattkoroskem
+  入度: 1
+  出度: 1
+设备: Rogasjattslatina
+  入度: 2
+  出度: 2
+设备: Senozece
+  入度: 3
+  出度: 3
+设备: Sezana
+  入度: 1
+  出度: 1
+设备: Slovenjttgradec
+  入度: 2
+  出度: 2
+设备: Slovenskattbistrica
+  入度: 2
+  出度: 2
+设备: Tolmin
+  入度: 2
+  出度: 2
+设备: Trbovlje
+  入度: 2
+  出度: 2
+设备: Velenje
+  入度: 3
+  出度: 3

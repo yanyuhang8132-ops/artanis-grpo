@@ -1,0 +1,2144 @@
+{
+  "amsterdam": {
+    "adjacency_vector": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "in_degree": 4,
+    "out_degree": 4,
+    "betweenness_centrality": 0.0702,
+    "equivalence_classes": [
+      {
+        "Next_Hop": "zurich_FastEthernet1/1",
+        "Networks": "10.0.0.20/31|10.0.0.21/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet2/0",
+        "Networks": "10.0.0.37/32|10.0.0.36/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet1/0",
+        "Networks": "10.0.0.46/32|10.0.0.46/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/0",
+        "Networks": "10.0.0.48/31|10.0.0.48/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/1",
+        "Networks": "10.0.0.50/31|10.0.0.50/32"
+      }
+    ]
+  },
+  "athens": {
+    "adjacency_vector": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "in_degree": 2,
+    "out_degree": 2,
+    "betweenness_centrality": 0.0019,
+    "equivalence_classes": [
+      {
+        "Next_Hop": "zurich_FastEthernet1/1",
+        "Networks": "10.0.0.20/31|10.0.0.21/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet2/0",
+        "Networks": "10.0.0.37/32|10.0.0.36/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet1/0",
+        "Networks": "10.0.0.46/32|10.0.0.46/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/0",
+        "Networks": "10.0.0.48/31|10.0.0.48/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/1",
+        "Networks": "10.0.0.50/31|10.0.0.50/32"
+      }
+    ]
+  },
+  "barcelona": {
+    "adjacency_vector": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "in_degree": 2,
+    "out_degree": 2,
+    "betweenness_centrality": 0.0093,
+    "equivalence_classes": [
+      {
+        "Next_Hop": "zurich_FastEthernet1/1",
+        "Networks": "10.0.0.20/31|10.0.0.21/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet2/0",
+        "Networks": "10.0.0.37/32|10.0.0.36/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet1/0",
+        "Networks": "10.0.0.46/32|10.0.0.46/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/0",
+        "Networks": "10.0.0.48/31|10.0.0.48/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/1",
+        "Networks": "10.0.0.50/31|10.0.0.50/32"
+      }
+    ]
+  },
+  "basel": {
+    "adjacency_vector": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "in_degree": 2,
+    "out_degree": 2,
+    "betweenness_centrality": 0.0101,
+    "equivalence_classes": [
+      {
+        "Next_Hop": "zurich_FastEthernet1/1",
+        "Networks": "10.0.0.20/31|10.0.0.21/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet2/0",
+        "Networks": "10.0.0.37/32|10.0.0.36/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet1/0",
+        "Networks": "10.0.0.46/32|10.0.0.46/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/0",
+        "Networks": "10.0.0.48/31|10.0.0.48/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/1",
+        "Networks": "10.0.0.50/31|10.0.0.50/32"
+      }
+    ]
+  },
+  "bratislava": {
+    "adjacency_vector": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "in_degree": 3,
+    "out_degree": 3,
+    "betweenness_centrality": 0.244,
+    "equivalence_classes": [
+      {
+        "Next_Hop": "zurich_FastEthernet1/1",
+        "Networks": "10.0.0.20/31|10.0.0.21/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet2/0",
+        "Networks": "10.0.0.37/32|10.0.0.36/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet1/0",
+        "Networks": "10.0.0.46/32|10.0.0.46/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/0",
+        "Networks": "10.0.0.48/31|10.0.0.48/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/1",
+        "Networks": "10.0.0.50/31|10.0.0.50/32"
+      }
+    ]
+  },
+  "brussels": {
+    "adjacency_vector": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "in_degree": 6,
+    "out_degree": 6,
+    "betweenness_centrality": 0.191,
+    "equivalence_classes": [
+      {
+        "Next_Hop": "zurich_FastEthernet1/1",
+        "Networks": "10.0.0.20/31|10.0.0.21/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet2/0",
+        "Networks": "10.0.0.37/32|10.0.0.36/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet1/0",
+        "Networks": "10.0.0.46/32|10.0.0.46/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/0",
+        "Networks": "10.0.0.48/31|10.0.0.48/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/1",
+        "Networks": "10.0.0.50/31|10.0.0.50/32"
+      }
+    ]
+  },
+  "bucharest": {
+    "adjacency_vector": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "in_degree": 3,
+    "out_degree": 3,
+    "betweenness_centrality": 0.0829,
+    "equivalence_classes": [
+      {
+        "Next_Hop": "zurich_FastEthernet1/1",
+        "Networks": "10.0.0.20/31|10.0.0.21/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet2/0",
+        "Networks": "10.0.0.37/32|10.0.0.36/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet1/0",
+        "Networks": "10.0.0.46/32|10.0.0.46/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/0",
+        "Networks": "10.0.0.48/31|10.0.0.48/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/1",
+        "Networks": "10.0.0.50/31|10.0.0.50/32"
+      }
+    ]
+  },
+  "budapest": {
+    "adjacency_vector": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "in_degree": 4,
+    "out_degree": 4,
+    "betweenness_centrality": 0.2328,
+    "equivalence_classes": [
+      {
+        "Next_Hop": "zurich_FastEthernet1/1",
+        "Networks": "10.0.0.20/31|10.0.0.21/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet2/0",
+        "Networks": "10.0.0.37/32|10.0.0.36/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet1/0",
+        "Networks": "10.0.0.46/32|10.0.0.46/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/0",
+        "Networks": "10.0.0.48/31|10.0.0.48/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/1",
+        "Networks": "10.0.0.50/31|10.0.0.50/32"
+      }
+    ]
+  },
+  "dublin": {
+    "adjacency_vector": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "in_degree": 1,
+    "out_degree": 1,
+    "betweenness_centrality": 0.0,
+    "equivalence_classes": [
+      {
+        "Next_Hop": "zurich_FastEthernet1/1",
+        "Networks": "10.0.0.20/31|10.0.0.21/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet2/0",
+        "Networks": "10.0.0.37/32|10.0.0.36/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet1/0",
+        "Networks": "10.0.0.46/32|10.0.0.46/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/0",
+        "Networks": "10.0.0.48/31|10.0.0.48/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/1",
+        "Networks": "10.0.0.50/31|10.0.0.50/32"
+      }
+    ]
+  },
+  "frankfurt": {
+    "adjacency_vector": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1
+    ],
+    "in_degree": 8,
+    "out_degree": 8,
+    "betweenness_centrality": 0.4845,
+    "equivalence_classes": [
+      {
+        "Next_Hop": "zurich_FastEthernet1/1",
+        "Networks": "10.0.0.20/31|10.0.0.21/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet2/0",
+        "Networks": "10.0.0.37/32|10.0.0.36/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet1/0",
+        "Networks": "10.0.0.46/32|10.0.0.46/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/0",
+        "Networks": "10.0.0.48/31|10.0.0.48/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/1",
+        "Networks": "10.0.0.50/31|10.0.0.50/32"
+      }
+    ]
+  },
+  "geneva": {
+    "adjacency_vector": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "in_degree": 5,
+    "out_degree": 5,
+    "betweenness_centrality": 0.1176,
+    "equivalence_classes": [
+      {
+        "Next_Hop": "zurich_FastEthernet1/1",
+        "Networks": "10.0.0.20/31|10.0.0.21/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet2/0",
+        "Networks": "10.0.0.37/32|10.0.0.36/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet1/0",
+        "Networks": "10.0.0.46/32|10.0.0.46/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/0",
+        "Networks": "10.0.0.48/31|10.0.0.48/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/1",
+        "Networks": "10.0.0.50/31|10.0.0.50/32"
+      }
+    ]
+  },
+  "istanbul": {
+    "adjacency_vector": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "in_degree": 2,
+    "out_degree": 2,
+    "betweenness_centrality": 0.0156,
+    "equivalence_classes": [
+      {
+        "Next_Hop": "zurich_FastEthernet1/1",
+        "Networks": "10.0.0.20/31|10.0.0.21/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet2/0",
+        "Networks": "10.0.0.37/32|10.0.0.36/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet1/0",
+        "Networks": "10.0.0.46/32|10.0.0.46/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/0",
+        "Networks": "10.0.0.48/31|10.0.0.48/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/1",
+        "Networks": "10.0.0.50/31|10.0.0.50/32"
+      }
+    ]
+  },
+  "kiev": {
+    "adjacency_vector": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "in_degree": 2,
+    "out_degree": 2,
+    "betweenness_centrality": 0.0901,
+    "equivalence_classes": [
+      {
+        "Next_Hop": "zurich_FastEthernet1/1",
+        "Networks": "10.0.0.20/31|10.0.0.21/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet2/0",
+        "Networks": "10.0.0.37/32|10.0.0.36/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet1/0",
+        "Networks": "10.0.0.46/32|10.0.0.46/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/0",
+        "Networks": "10.0.0.48/31|10.0.0.48/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/1",
+        "Networks": "10.0.0.50/31|10.0.0.50/32"
+      }
+    ]
+  },
+  "lisbon": {
+    "adjacency_vector": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "in_degree": 1,
+    "out_degree": 1,
+    "betweenness_centrality": 0.0,
+    "equivalence_classes": [
+      {
+        "Next_Hop": "zurich_FastEthernet1/1",
+        "Networks": "10.0.0.20/31|10.0.0.21/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet2/0",
+        "Networks": "10.0.0.37/32|10.0.0.36/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet1/0",
+        "Networks": "10.0.0.46/32|10.0.0.46/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/0",
+        "Networks": "10.0.0.48/31|10.0.0.48/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/1",
+        "Networks": "10.0.0.50/31|10.0.0.50/32"
+      }
+    ]
+  },
+  "ljubjana": {
+    "adjacency_vector": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "in_degree": 1,
+    "out_degree": 1,
+    "betweenness_centrality": 0.0,
+    "equivalence_classes": [
+      {
+        "Next_Hop": "zurich_FastEthernet1/1",
+        "Networks": "10.0.0.20/31|10.0.0.21/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet2/0",
+        "Networks": "10.0.0.37/32|10.0.0.36/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet1/0",
+        "Networks": "10.0.0.46/32|10.0.0.46/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/0",
+        "Networks": "10.0.0.48/31|10.0.0.48/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/1",
+        "Networks": "10.0.0.50/31|10.0.0.50/32"
+      }
+    ]
+  },
+  "london": {
+    "adjacency_vector": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "in_degree": 5,
+    "out_degree": 5,
+    "betweenness_centrality": 0.1248,
+    "equivalence_classes": [
+      {
+        "Next_Hop": "zurich_FastEthernet1/1",
+        "Networks": "10.0.0.20/31|10.0.0.21/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet2/0",
+        "Networks": "10.0.0.37/32|10.0.0.36/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet1/0",
+        "Networks": "10.0.0.46/32|10.0.0.46/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/0",
+        "Networks": "10.0.0.48/31|10.0.0.48/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/1",
+        "Networks": "10.0.0.50/31|10.0.0.50/32"
+      }
+    ]
+  },
+  "luxembourg": {
+    "adjacency_vector": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "in_degree": 2,
+    "out_degree": 2,
+    "betweenness_centrality": 0.0062,
+    "equivalence_classes": [
+      {
+        "Next_Hop": "zurich_FastEthernet1/1",
+        "Networks": "10.0.0.20/31|10.0.0.21/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet2/0",
+        "Networks": "10.0.0.37/32|10.0.0.36/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet1/0",
+        "Networks": "10.0.0.46/32|10.0.0.46/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/0",
+        "Networks": "10.0.0.48/31|10.0.0.48/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/1",
+        "Networks": "10.0.0.50/31|10.0.0.50/32"
+      }
+    ]
+  },
+  "lyon": {
+    "adjacency_vector": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "in_degree": 3,
+    "out_degree": 3,
+    "betweenness_centrality": 0.0256,
+    "equivalence_classes": [
+      {
+        "Next_Hop": "zurich_FastEthernet1/1",
+        "Networks": "10.0.0.20/31|10.0.0.21/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet2/0",
+        "Networks": "10.0.0.37/32|10.0.0.36/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet1/0",
+        "Networks": "10.0.0.46/32|10.0.0.46/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/0",
+        "Networks": "10.0.0.48/31|10.0.0.48/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/1",
+        "Networks": "10.0.0.50/31|10.0.0.50/32"
+      }
+    ]
+  },
+  "madrid": {
+    "adjacency_vector": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "in_degree": 2,
+    "out_degree": 2,
+    "betweenness_centrality": 0.0219,
+    "equivalence_classes": [
+      {
+        "Next_Hop": "zurich_FastEthernet1/1",
+        "Networks": "10.0.0.20/31|10.0.0.21/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet2/0",
+        "Networks": "10.0.0.37/32|10.0.0.36/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet1/0",
+        "Networks": "10.0.0.46/32|10.0.0.46/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/0",
+        "Networks": "10.0.0.48/31|10.0.0.48/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/1",
+        "Networks": "10.0.0.50/31|10.0.0.50/32"
+      }
+    ]
+  },
+  "marseille": {
+    "adjacency_vector": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "in_degree": 3,
+    "out_degree": 3,
+    "betweenness_centrality": 0.0634,
+    "equivalence_classes": [
+      {
+        "Next_Hop": "zurich_FastEthernet1/1",
+        "Networks": "10.0.0.20/31|10.0.0.21/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet2/0",
+        "Networks": "10.0.0.37/32|10.0.0.36/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet1/0",
+        "Networks": "10.0.0.46/32|10.0.0.46/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/0",
+        "Networks": "10.0.0.48/31|10.0.0.48/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/1",
+        "Networks": "10.0.0.50/31|10.0.0.50/32"
+      }
+    ]
+  },
+  "milan": {
+    "adjacency_vector": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    "in_degree": 4,
+    "out_degree": 4,
+    "betweenness_centrality": 0.1187,
+    "equivalence_classes": [
+      {
+        "Next_Hop": "zurich_FastEthernet1/1",
+        "Networks": "10.0.0.20/31|10.0.0.21/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet2/0",
+        "Networks": "10.0.0.37/32|10.0.0.36/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet1/0",
+        "Networks": "10.0.0.46/32|10.0.0.46/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/0",
+        "Networks": "10.0.0.48/31|10.0.0.48/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/1",
+        "Networks": "10.0.0.50/31|10.0.0.50/32"
+      }
+    ]
+  },
+  "paris": {
+    "adjacency_vector": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "in_degree": 5,
+    "out_degree": 5,
+    "betweenness_centrality": 0.1387,
+    "equivalence_classes": [
+      {
+        "Next_Hop": "zurich_FastEthernet1/1",
+        "Networks": "10.0.0.20/31|10.0.0.21/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet2/0",
+        "Networks": "10.0.0.37/32|10.0.0.36/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet1/0",
+        "Networks": "10.0.0.46/32|10.0.0.46/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/0",
+        "Networks": "10.0.0.48/31|10.0.0.48/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/1",
+        "Networks": "10.0.0.50/31|10.0.0.50/32"
+      }
+    ]
+  },
+  "peergeneva_0": {
+    "adjacency_vector": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "in_degree": 1,
+    "out_degree": 1,
+    "betweenness_centrality": 0.0,
+    "equivalence_classes": [
+      {
+        "Next_Hop": "zurich_FastEthernet1/1",
+        "Networks": "10.0.0.20/31|10.0.0.21/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet2/0",
+        "Networks": "10.0.0.37/32|10.0.0.36/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet1/0",
+        "Networks": "10.0.0.46/32|10.0.0.46/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/0",
+        "Networks": "10.0.0.48/31|10.0.0.48/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/1",
+        "Networks": "10.0.0.50/31|10.0.0.50/32"
+      }
+    ]
+  },
+  "praha": {
+    "adjacency_vector": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "in_degree": 3,
+    "out_degree": 3,
+    "betweenness_centrality": 0.0892,
+    "equivalence_classes": [
+      {
+        "Next_Hop": "zurich_FastEthernet1/1",
+        "Networks": "10.0.0.20/31|10.0.0.21/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet2/0",
+        "Networks": "10.0.0.37/32|10.0.0.36/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet1/0",
+        "Networks": "10.0.0.46/32|10.0.0.46/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/0",
+        "Networks": "10.0.0.48/31|10.0.0.48/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/1",
+        "Networks": "10.0.0.50/31|10.0.0.50/32"
+      }
+    ]
+  },
+  "roma": {
+    "adjacency_vector": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "in_degree": 2,
+    "out_degree": 2,
+    "betweenness_centrality": 0.0,
+    "equivalence_classes": [
+      {
+        "Next_Hop": "zurich_FastEthernet1/1",
+        "Networks": "10.0.0.20/31|10.0.0.21/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet2/0",
+        "Networks": "10.0.0.37/32|10.0.0.36/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet1/0",
+        "Networks": "10.0.0.46/32|10.0.0.46/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/0",
+        "Networks": "10.0.0.48/31|10.0.0.48/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/1",
+        "Networks": "10.0.0.50/31|10.0.0.50/32"
+      }
+    ]
+  },
+  "rotterdam": {
+    "adjacency_vector": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "in_degree": 2,
+    "out_degree": 2,
+    "betweenness_centrality": 0.0,
+    "equivalence_classes": [
+      {
+        "Next_Hop": "zurich_FastEthernet1/1",
+        "Networks": "10.0.0.20/31|10.0.0.21/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet2/0",
+        "Networks": "10.0.0.37/32|10.0.0.36/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet1/0",
+        "Networks": "10.0.0.46/32|10.0.0.46/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/0",
+        "Networks": "10.0.0.48/31|10.0.0.48/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/1",
+        "Networks": "10.0.0.50/31|10.0.0.50/32"
+      }
+    ]
+  },
+  "sofia": {
+    "adjacency_vector": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "in_degree": 2,
+    "out_degree": 2,
+    "betweenness_centrality": 0.0431,
+    "equivalence_classes": [
+      {
+        "Next_Hop": "zurich_FastEthernet1/1",
+        "Networks": "10.0.0.20/31|10.0.0.21/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet2/0",
+        "Networks": "10.0.0.37/32|10.0.0.36/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet1/0",
+        "Networks": "10.0.0.46/32|10.0.0.46/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/0",
+        "Networks": "10.0.0.48/31|10.0.0.48/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/1",
+        "Networks": "10.0.0.50/31|10.0.0.50/32"
+      }
+    ]
+  },
+  "stockholm": {
+    "adjacency_vector": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "in_degree": 1,
+    "out_degree": 1,
+    "betweenness_centrality": 0.0,
+    "equivalence_classes": [
+      {
+        "Next_Hop": "zurich_FastEthernet1/1",
+        "Networks": "10.0.0.20/31|10.0.0.21/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet2/0",
+        "Networks": "10.0.0.37/32|10.0.0.36/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet1/0",
+        "Networks": "10.0.0.46/32|10.0.0.46/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/0",
+        "Networks": "10.0.0.48/31|10.0.0.48/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/1",
+        "Networks": "10.0.0.50/31|10.0.0.50/32"
+      }
+    ]
+  },
+  "strasbourg": {
+    "adjacency_vector": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "in_degree": 3,
+    "out_degree": 3,
+    "betweenness_centrality": 0.0519,
+    "equivalence_classes": [
+      {
+        "Next_Hop": "zurich_FastEthernet1/1",
+        "Networks": "10.0.0.20/31|10.0.0.21/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet2/0",
+        "Networks": "10.0.0.37/32|10.0.0.36/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet1/0",
+        "Networks": "10.0.0.46/32|10.0.0.46/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/0",
+        "Networks": "10.0.0.48/31|10.0.0.48/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/1",
+        "Networks": "10.0.0.50/31|10.0.0.50/32"
+      }
+    ]
+  },
+  "vaduz": {
+    "adjacency_vector": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "in_degree": 1,
+    "out_degree": 1,
+    "betweenness_centrality": 0.0,
+    "equivalence_classes": [
+      {
+        "Next_Hop": "zurich_FastEthernet1/1",
+        "Networks": "10.0.0.20/31|10.0.0.21/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet2/0",
+        "Networks": "10.0.0.37/32|10.0.0.36/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet1/0",
+        "Networks": "10.0.0.46/32|10.0.0.46/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/0",
+        "Networks": "10.0.0.48/31|10.0.0.48/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/1",
+        "Networks": "10.0.0.50/31|10.0.0.50/32"
+      }
+    ]
+  },
+  "vienna": {
+    "adjacency_vector": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "in_degree": 3,
+    "out_degree": 3,
+    "betweenness_centrality": 0.1937,
+    "equivalence_classes": [
+      {
+        "Next_Hop": "zurich_FastEthernet1/1",
+        "Networks": "10.0.0.20/31|10.0.0.21/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet2/0",
+        "Networks": "10.0.0.37/32|10.0.0.36/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet1/0",
+        "Networks": "10.0.0.46/32|10.0.0.46/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/0",
+        "Networks": "10.0.0.48/31|10.0.0.48/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/1",
+        "Networks": "10.0.0.50/31|10.0.0.50/32"
+      }
+    ]
+  },
+  "warsaw": {
+    "adjacency_vector": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "in_degree": 3,
+    "out_degree": 3,
+    "betweenness_centrality": 0.1271,
+    "equivalence_classes": [
+      {
+        "Next_Hop": "zurich_FastEthernet1/1",
+        "Networks": "10.0.0.20/31|10.0.0.21/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet2/0",
+        "Networks": "10.0.0.37/32|10.0.0.36/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet1/0",
+        "Networks": "10.0.0.46/32|10.0.0.46/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/0",
+        "Networks": "10.0.0.48/31|10.0.0.48/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/1",
+        "Networks": "10.0.0.50/31|10.0.0.50/32"
+      }
+    ]
+  },
+  "zagreb": {
+    "adjacency_vector": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "in_degree": 2,
+    "out_degree": 2,
+    "betweenness_centrality": 0.0606,
+    "equivalence_classes": [
+      {
+        "Next_Hop": "zurich_FastEthernet1/1",
+        "Networks": "10.0.0.20/31|10.0.0.21/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet2/0",
+        "Networks": "10.0.0.37/32|10.0.0.36/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet1/0",
+        "Networks": "10.0.0.46/32|10.0.0.46/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/0",
+        "Networks": "10.0.0.48/31|10.0.0.48/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/1",
+        "Networks": "10.0.0.50/31|10.0.0.50/32"
+      }
+    ]
+  },
+  "zurich": {
+    "adjacency_vector": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "in_degree": 5,
+    "out_degree": 5,
+    "betweenness_centrality": 0.1843,
+    "equivalence_classes": [
+      {
+        "Next_Hop": "zurich_FastEthernet1/1",
+        "Networks": "10.0.0.20/31|10.0.0.21/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet2/0",
+        "Networks": "10.0.0.37/32|10.0.0.36/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet1/0",
+        "Networks": "10.0.0.46/32|10.0.0.46/31"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/0",
+        "Networks": "10.0.0.48/31|10.0.0.48/32"
+      },
+      {
+        "Next_Hop": "zurich_FastEthernet0/1",
+        "Networks": "10.0.0.50/31|10.0.0.50/32"
+      }
+    ]
+  }
+}

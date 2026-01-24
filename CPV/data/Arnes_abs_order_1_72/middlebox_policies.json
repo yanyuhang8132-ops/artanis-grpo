@@ -1,0 +1,82 @@
+{
+  "scenario_id": 0,
+  "lb_rules": {
+    "Ptuj": {
+      "[Rogasjattslatina,Gornjattradgona]": {
+        "next_hops": [
+          "Maribor",
+          "Ormoz"
+        ],
+        "weights": [
+          0.3,
+          0.7
+        ],
+        "prev_hop": "Rogasjattslatina"
+      }
+    },
+    "Dravograd": {
+      "[Ravnettnattkoroskem,Ljubljana]": {
+        "next_hops": [
+          "Maribor",
+          "Slovenjttgradec"
+        ],
+        "weights": [
+          0.7,
+          0.3
+        ],
+        "prev_hop": "Ravnettnattkoroskem"
+      }
+    },
+    "Kranj": {
+      "[Jesenice,Kovevje]": {
+        "next_hops": [
+          "Ljubljana",
+          "Bled"
+        ],
+        "weights": [
+          0.35,
+          0.65
+        ],
+        "prev_hop": "Jesenice"
+      }
+    }
+  },
+  "acl_rules": {
+    "Radenci": {
+      "[Rogasjattslatina,Gornjattradgona]": {
+        "rate_limit": 65
+      }
+    },
+    "Celje": {
+      "[Ravnettnattkoroskem,Ljubljana]": {
+        "rate_limit": 19
+      }
+    },
+    "Ljubljana": {
+      "[Jesenice,Kovevje]": {
+        "rate_limit": 19
+      },
+      "[Kovevje,Jesenice]": {
+        "rate_limit": 43
+      },
+      "[Jesenice,Peercelje_0]": {
+        "rate_limit": 70
+      }
+    },
+    "Maribor": {
+      "[Radenci,Bled]": {
+        "rate_limit": 67
+      }
+    },
+    "Postojna": {
+      "[Senozece,Ptuj]": {
+        "rate_limit": 54
+      }
+    },
+    "Kovevje": {
+      "[Krsko,Kamnik]": {
+        "rate_limit": 36
+      }
+    }
+  }
+}

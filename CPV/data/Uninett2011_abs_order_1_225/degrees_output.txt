@@ -1,0 +1,211 @@
+节点入度和出度：
+设备: Hbottbodo
+  入度: 4
+  出度: 4
+设备: Hbottmottittrana
+  入度: 1
+  出度: 1
+设备: Hhttelverum
+  入度: 3
+  出度: 3
+设备: Hhttevenstad
+  入度: 2
+  出度: 2
+设备: Hhtthamar
+  入度: 2
+  出度: 2
+设备: Hhttkongsvinger
+  入度: 2
+  出度: 2
+设备: Hhttrena
+  入度: 2
+  出度: 2
+设备: Hhtttynset
+  入度: 2
+  出度: 2
+设备: Hiakttkjeller
+  入度: 2
+  出度: 2
+设备: Hiattalesund
+  入度: 4
+  出度: 4
+设备: Hibuttdrammen
+  入度: 4
+  出度: 4
+设备: Hibutthonefoss
+  入度: 2
+  出度: 2
+设备: Hibuttkongsberg
+  入度: 2
+  出度: 2
+设备: Hifttalta
+  入度: 3
+  出度: 3
+设备: Hiftthammerfest
+  入度: 3
+  出度: 3
+设备: Hifttkirkenes
+  入度: 2
+  出度: 2
+设备: Hifttvadso
+  入度: 2
+  出度: 2
+设备: Higttgjovik
+  入度: 2
+  出度: 2
+设备: Hihttharstad
+  入度: 4
+  出度: 4
+设备: Hilttlillehammer
+  入度: 2
+  出度: 2
+设备: Hinettmottittrana
+  入度: 1
+  出度: 1
+设备: Hinettnesna
+  入度: 2
+  出度: 2
+设备: Hinettsandnesjoen
+  入度: 3
+  出度: 3
+设备: Hingttstjordal
+  入度: 3
+  出度: 3
+设备: Hinttnarvik
+  入度: 5
+  出度: 5
+设备: Hintttlevanger
+  入度: 2
+  出度: 2
+设备: Hintttnamsos
+  入度: 2
+  出度: 2
+设备: Hintttsteinkjer
+  入度: 3
+  出度: 3
+设备: Hiottfredrikstad
+  入度: 3
+  出度: 3
+设备: Hiotthalden
+  入度: 2
+  出度: 2
+设备: Hitttbo
+  入度: 5
+  出度: 5
+设备: Hitttnotodden
+  入度: 1
+  出度: 1
+设备: Hitttporsgrunn
+  入度: 2
+  出度: 2
+设备: Hitttrauland
+  入度: 1
+  出度: 1
+设备: Hsfttforde
+  入度: 3
+  出度: 3
+设备: Hsfttsandane
+  入度: 1
+  出度: 1
+设备: Hsfttsongdal
+  入度: 2
+  出度: 2
+设备: Hshtthaugesund
+  入度: 2
+  出度: 2
+设备: Hshttstord
+  入度: 2
+  出度: 2
+设备: Hsmttkristiansun
+  入度: 2
+  出度: 2
+设备: Hsmttmolde
+  入度: 2
+  出度: 2
+设备: Hvettborre
+  入度: 3
+  出度: 3
+设备: Hvettlarvik
+  入度: 1
+  出度: 1
+设备: Hvottvolda
+  入度: 2
+  出度: 2
+设备: Nbttmottittrana
+  入度: 6
+  出度: 6
+设备: Nordunetttkobenhavn
+  入度: 1
+  出度: 1
+设备: Nordunetttstockholm
+  入度: 1
+  出度: 1
+设备: Nordunetttstockholmid58
+  入度: 1
+  出度: 1
+设备: Ntnutthovedbygget
+  入度: 8
+  出度: 8
+设备: Ntnuttrealfagbygget
+  入度: 6
+  出度: 6
+设备: Nyalesund
+  入度: 1
+  出度: 1
+设备: Peerhingttstjordal_0
+  入度: 1
+  出度: 1
+设备: Sa_shttkautokeino
+  入度: 2
+  出度: 2
+设备: Stockholm
+  入度: 3
+  出度: 3
+设备: Uiattgrimstad
+  入度: 2
+  出度: 2
+设备: Uiattkristiansand
+  入度: 3
+  出度: 3
+设备: Uibttbt
+  入度: 3
+  出度: 3
+设备: Uibtthoyteklogibygget
+  入度: 6
+  出度: 6
+设备: Uio
+  入度: 6
+  出度: 6
+设备: Uioid1
+  入度: 7
+  出度: 7
+设备: Uiottstttolavsplasstt5
+  入度: 8
+  出度: 8
+设备: Uisttstavanger
+  入度: 4
+  出度: 4
+设备: Uito
+  入度: 3
+  出度: 3
+设备: Uitoid43
+  入度: 4
+  出度: 4
+设备: Uitottkarasjok
+  入度: 2
+  出度: 2
+设备: Umbttas
+  入度: 2
+  出度: 2
+设备: Unikttkjeller
+  入度: 2
+  出度: 2
+设备: Uninettttteknobyen
+  入度: 4
+  出度: 4
+设备: Unisttsvalbard
+  入度: 2
+  出度: 2
+设备: Vethsttsandnes
+  入度: 1
+  出度: 1

@@ -1,0 +1,103 @@
+节点入度和出度：
+设备: Amsterdam
+  入度: 4
+  出度: 4
+设备: Athens
+  入度: 2
+  出度: 2
+设备: Barcelona
+  入度: 2
+  出度: 2
+设备: Basel
+  入度: 2
+  出度: 2
+设备: Bratislava
+  入度: 3
+  出度: 3
+设备: Brussels
+  入度: 6
+  出度: 6
+设备: Bucharest
+  入度: 3
+  出度: 3
+设备: Budapest
+  入度: 4
+  出度: 4
+设备: Dublin
+  入度: 1
+  出度: 1
+设备: Frankfurt
+  入度: 8
+  出度: 8
+设备: Geneva
+  入度: 5
+  出度: 5
+设备: Istanbul
+  入度: 2
+  出度: 2
+设备: Kiev
+  入度: 2
+  出度: 2
+设备: Lisbon
+  入度: 1
+  出度: 1
+设备: Ljubjana
+  入度: 1
+  出度: 1
+设备: London
+  入度: 5
+  出度: 5
+设备: Luxembourg
+  入度: 2
+  出度: 2
+设备: Lyon
+  入度: 3
+  出度: 3
+设备: Madrid
+  入度: 2
+  出度: 2
+设备: Marseille
+  入度: 3
+  出度: 3
+设备: Milan
+  入度: 4
+  出度: 4
+设备: Paris
+  入度: 5
+  出度: 5
+设备: Peergeneva_0
+  入度: 1
+  出度: 1
+设备: Praha
+  入度: 3
+  出度: 3
+设备: Roma
+  入度: 2
+  出度: 2
+设备: Rotterdam
+  入度: 2
+  出度: 2
+设备: Sofia
+  入度: 2
+  出度: 2
+设备: Stockholm
+  入度: 1
+  出度: 1
+设备: Strasbourg
+  入度: 3
+  出度: 3
+设备: Vaduz
+  入度: 1
+  出度: 1
+设备: Vienna
+  入度: 3
+  出度: 3
+设备: Warsaw
+  入度: 3
+  出度: 3
+设备: Zagreb
+  入度: 2
+  出度: 2
+设备: Zurich
+  入度: 5
+  出度: 5

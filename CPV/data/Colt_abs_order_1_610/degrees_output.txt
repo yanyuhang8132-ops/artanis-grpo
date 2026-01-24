@@ -1,0 +1,463 @@
+节点入度和出度：
+设备: Aarhus
+  入度: 3
+  出度: 3
+设备: Almere
+  入度: 1
+  出度: 1
+设备: Amsterdam
+  入度: 4
+  出度: 4
+设备: Anderlecht
+  入度: 1
+  出度: 1
+设备: Antwerp
+  入度: 2
+  出度: 2
+设备: Barcelona
+  入度: 3
+  出度: 3
+设备: Bari
+  入度: 1
+  出度: 1
+设备: Basel
+  入度: 3
+  出度: 3
+设备: Bergamo
+  入度: 2
+  出度: 2
+设备: Berlin
+  入度: 5
+  出度: 5
+设备: Bern
+  入度: 1
+  出度: 1
+设备: Biel_bienne
+  入度: 1
+  出度: 1
+设备: Biella
+  入度: 1
+  出度: 1
+设备: Birmingham
+  入度: 2
+  出度: 2
+设备: Boblingen
+  入度: 1
+  出度: 1
+设备: Bologna
+  入度: 2
+  出度: 2
+设备: Bordeaux
+  入度: 3
+  出度: 3
+设备: Borgomanero
+  入度: 1
+  出度: 1
+设备: Boston
+  入度: 2
+  出度: 2
+设备: Bratislava
+  入度: 2
+  出度: 2
+设备: Breda
+  入度: 1
+  出度: 1
+设备: Bremen
+  入度: 1
+  出度: 1
+设备: Brescia
+  入度: 2
+  出度: 2
+设备: Brindisi
+  入度: 1
+  出度: 1
+设备: Bristol
+  入度: 3
+  出度: 3
+设备: Brussels
+  入度: 11
+  出度: 11
+设备: Bucharest
+  入度: 1
+  出度: 1
+设备: Budapest
+  入度: 3
+  出度: 3
+设备: Cagliari
+  入度: 1
+  出度: 1
+设备: Catania
+  入度: 1
+  出度: 1
+设备: Charleroi
+  入度: 1
+  出度: 1
+设备: Chiasso
+  入度: 2
+  出度: 2
+设备: Chicago
+  入度: 1
+  出度: 1
+设备: Cologne
+  入度: 2
+  出度: 2
+设备: Como
+  入度: 2
+  出度: 2
+设备: Copenhagen
+  入度: 5
+  出度: 5
+设备: Cuneo
+  入度: 1
+  出度: 1
+设备: Denttbosch
+  入度: 4
+  出度: 4
+设备: Dijon
+  入度: 1
+  出度: 1
+设备: Dortmund
+  入度: 2
+  出度: 2
+设备: Dresden
+  入度: 3
+  出度: 3
+设备: Dublin
+  入度: 2
+  出度: 2
+设备: Dusseldorf
+  入度: 5
+  出度: 5
+设备: Eindhoven
+  入度: 1
+  出度: 1
+设备: Erding
+  入度: 1
+  出度: 1
+设备: Essen
+  入度: 3
+  出度: 3
+设备: Esslingen
+  入度: 1
+  出度: 1
+设备: Evere
+  入度: 1
+  出度: 1
+设备: Firenze
+  入度: 3
+  出度: 3
+设备: Frankfurt
+  入度: 2
+  出度: 2
+设备: Geneve
+  入度: 2
+  出度: 2
+设备: Genova
+  入度: 2
+  出度: 2
+设备: Ghent
+  入度: 3
+  出度: 3
+设备: Gothenburg
+  入度: 2
+  出度: 2
+设备: Graz
+  入度: 2
+  出度: 2
+设备: Grenoble
+  入度: 1
+  出度: 1
+设备: Hamburg
+  入度: 7
+  出度: 7
+设备: Hannover
+  入度: 2
+  出度: 2
+设备: Helsinki
+  入度: 1
+  出度: 1
+设备: Hilversum
+  入度: 2
+  出度: 2
+设备: Hoofddorp
+  入度: 2
+  出度: 2
+设备: Innsbruck
+  入度: 1
+  出度: 1
+设备: Karlsruhe
+  入度: 3
+  出度: 3
+设备: Klagenfurt
+  入度: 1
+  出度: 1
+设备: Kolding
+  入度: 2
+  出度: 2
+设备: Kortnijk
+  入度: 1
+  出度: 1
+设备: Krakov
+  入度: 2
+  出度: 2
+设备: Lausanne
+  入度: 2
+  出度: 2
+设备: Leipzig
+  入度: 2
+  出度: 2
+设备: Leuven
+  入度: 1
+  出度: 1
+设备: Liege
+  入度: 1
+  出度: 1
+设备: Lille
+  入度: 3
+  出度: 3
+设备: Linz
+  入度: 3
+  出度: 3
+设备: Lisbon
+  入度: 3
+  出度: 3
+设备: Livorno
+  入度: 1
+  出度: 1
+设备: London
+  入度: 8
+  出度: 8
+设备: Lucerne
+  入度: 2
+  出度: 2
+设备: Lugano
+  入度: 2
+  出度: 2
+设备: Luxembourg
+  入度: 1
+  出度: 1
+设备: Lyon
+  入度: 5
+  出度: 5
+设备: Madrid
+  入度: 3
+  出度: 3
+设备: Magdemburg
+  入度: 1
+  出度: 1
+设备: Malmo
+  入度: 1
+  出度: 1
+设备: Manchester
+  入度: 2
+  出度: 2
+设备: Mannheim
+  入度: 2
+  出度: 2
+设备: Marseille
+  入度: 4
+  出度: 4
+设备: Milan
+  入度: 18
+  出度: 18
+设备: Modena
+  入度: 2
+  出度: 2
+设备: Mons
+  入度: 1
+  出度: 1
+设备: Montpellier
+  入度: 2
+  出度: 2
+设备: Monza
+  入度: 1
+  出度: 1
+设备: Munich
+  入度: 4
+  出度: 4
+设备: Nantes
+  入度: 2
+  出度: 2
+设备: Napoli
+  入度: 1
+  出度: 1
+设备: Neuss
+  入度: 1
+  出度: 1
+设备: Newark
+  入度: 3
+  出度: 3
+设备: Newttyork
+  入度: 2
+  出度: 2
+设备: Nice
+  入度: 1
+  出度: 1
+设备: Nodeid60
+  入度: 3
+  出度: 3
+设备: Nodeid62
+  入度: 3
+  出度: 3
+设备: Nodeid73
+  入度: 4
+  出度: 4
+设备: Nodeid79
+  入度: 3
+  出度: 3
+设备: Novara
+  入度: 1
+  出度: 1
+设备: Nuremberg
+  入度: 2
+  出度: 2
+设备: Nyon
+  入度: 2
+  出度: 2
+设备: Oslo
+  入度: 2
+  出度: 2
+设备: Ostend
+  入度: 2
+  出度: 2
+设备: Padova
+  入度: 3
+  出度: 3
+设备: Palermo
+  入度: 1
+  出度: 1
+设备: Paris
+  入度: 6
+  出度: 6
+设备: Parma
+  入度: 1
+  出度: 1
+设备: Peerbarcelona_0
+  入度: 1
+  出度: 1
+设备: Pfaffikon
+  入度: 2
+  出度: 2
+设备: Piacenza
+  入度: 1
+  出度: 1
+设备: Poitiers
+  入度: 1
+  出度: 1
+设备: Porto
+  入度: 1
+  出度: 1
+设备: Potsdam
+  入度: 1
+  出度: 1
+设备: Prague
+  入度: 3
+  出度: 3
+设备: Reading
+  入度: 2
+  出度: 2
+设备: Reggiottemilia
+  入度: 2
+  出度: 2
+设备: Rennes
+  入度: 2
+  出度: 2
+设备: Rimini
+  入度: 1
+  出度: 1
+设备: Rome
+  入度: 9
+  出度: 9
+设备: Rostock
+  入度: 2
+  出度: 2
+设备: Rotterdam
+  入度: 2
+  出度: 2
+设备: Rouen
+  入度: 2
+  出度: 2
+设备: Salzburg
+  入度: 2
+  出度: 2
+设备: Sassari
+  入度: 1
+  出度: 1
+设备: Schaffhausen
+  入度: 2
+  出度: 2
+设备: Sintra
+  入度: 1
+  出度: 1
+设备: Stockholm
+  入度: 3
+  出度: 3
+设备: Strasbourg
+  入度: 3
+  出度: 3
+设备: Stttgallen
+  入度: 3
+  出度: 3
+设备: Stttpollen
+  入度: 1
+  出度: 1
+设备: Stuttgart
+  入度: 4
+  出度: 4
+设备: Thetthague
+  入度: 3
+  出度: 3
+设备: Toulouse
+  入度: 2
+  出度: 2
+设备: Tours
+  入度: 2
+  出度: 2
+设备: Trento
+  入度: 1
+  出度: 1
+设备: Treviso
+  入度: 1
+  出度: 1
+设备: Trieste
+  入度: 1
+  出度: 1
+设备: Turin
+  入度: 3
+  出度: 3
+设备: Utrecht
+  入度: 2
+  出度: 2
+设备: Valencia
+  入度: 2
+  出度: 2
+设备: Varese
+  入度: 1
+  出度: 1
+设备: Venezia
+  入度: 1
+  出度: 1
+设备: Verona
+  入度: 2
+  出度: 2
+设备: Vicenza
+  入度: 1
+  出度: 1
+设备: Vienna
+  入度: 6
+  出度: 6
+设备: Warsaw
+  入度: 2
+  出度: 2
+设备: Winterthur
+  入度: 2
+  出度: 2
+设备: Wuppertal
+  入度: 2
+  出度: 2
+设备: Zug
+  入度: 2
+  出度: 2
+设备: Zurich
+  入度: 5
+  出度: 5

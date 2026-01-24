@@ -1,0 +1,481 @@
+节点入度和出度：
+设备: Abbeville
+  入度: 3
+  出度: 3
+设备: Abingdon
+  入度: 2
+  出度: 2
+设备: Adel
+  入度: 2
+  出度: 2
+设备: Aiken
+  入度: 2
+  出度: 2
+设备: Albany
+  入度: 2
+  出度: 2
+设备: Anderson
+  入度: 1
+  出度: 1
+设备: Andrews
+  入度: 3
+  出度: 3
+设备: Ashburn
+  入度: 2
+  出度: 2
+设备: Asheville
+  入度: 2
+  出度: 2
+设备: Ashland
+  入度: 1
+  出度: 1
+设备: Athens
+  入度: 2
+  出度: 2
+设备: Atlanta
+  入度: 6
+  出度: 6
+设备: Augusta
+  入度: 4
+  出度: 4
+设备: Avonttpark
+  入度: 2
+  出度: 2
+设备: Baldwin
+  入度: 2
+  出度: 2
+设备: Beaufort
+  入度: 2
+  出度: 2
+设备: Bethune
+  入度: 2
+  出度: 2
+设备: Birmingham
+  入度: 2
+  出度: 2
+设备: Blacksburg
+  入度: 2
+  出度: 2
+设备: Blairsville
+  入度: 2
+  出度: 2
+设备: Bland
+  入度: 2
+  出度: 2
+设备: Blitchton
+  入度: 2
+  出度: 2
+设备: Blountstown
+  入度: 2
+  出度: 2
+设备: Bluefield
+  入度: 1
+  出度: 1
+设备: Blueridge
+  入度: 3
+  出度: 3
+设备: Boone
+  入度: 2
+  出度: 2
+设备: Bristol
+  入度: 3
+  出度: 3
+设备: Brysonttcity
+  入度: 2
+  出度: 2
+设备: Burlington
+  入度: 2
+  出度: 2
+设备: Calhoun
+  入度: 1
+  出度: 1
+设备: Canton
+  入度: 2
+  出度: 2
+设备: Carlisle
+  入度: 1
+  出度: 1
+设备: Cartersville
+  入度: 2
+  出度: 2
+设备: Chamersburg
+  入度: 2
+  出度: 2
+设备: Charleston
+  入度: 2
+  出度: 2
+设备: Charlestonid102
+  入度: 2
+  出度: 2
+设备: Charlotte
+  入度: 3
+  出度: 3
+设备: Charlottesville
+  入度: 2
+  出度: 2
+设备: Chattanooga
+  入度: 2
+  出度: 2
+设备: Cherokee
+  入度: 2
+  出度: 2
+设备: Chester
+  入度: 3
+  出度: 3
+设备: Christiansburg
+  入度: 2
+  出度: 2
+设备: Clemson
+  入度: 4
+  出度: 4
+设备: Columbia
+  入度: 5
+  出度: 5
+设备: Columbus
+  入度: 2
+  出度: 2
+设备: Concord
+  入度: 2
+  出度: 2
+设备: Copperhill
+  入度: 2
+  出度: 2
+设备: Courtney
+  入度: 2
+  出度: 2
+设备: Crestview
+  入度: 2
+  出度: 2
+设备: Dalton
+  入度: 3
+  出度: 3
+设备: Danville
+  入度: 3
+  出度: 3
+设备: Darien
+  入度: 2
+  出度: 2
+设备: Dothan
+  入度: 3
+  出度: 3
+设备: Douglas
+  入度: 2
+  出度: 2
+设备: Durham
+  入度: 2
+  出度: 2
+设备: Easley
+  入度: 2
+  出度: 2
+设备: Edinburg
+  入度: 2
+  出度: 2
+设备: Ellijay
+  入度: 3
+  出度: 3
+设备: Fayetteville
+  入度: 5
+  出度: 5
+设备: Florence
+  入度: 4
+  出度: 4
+设备: Fortttmyers
+  入度: 1
+  出度: 1
+设备: Franklin
+  入度: 2
+  出度: 2
+设备: Frontttroyal
+  入度: 2
+  出度: 2
+设备: Georgetown
+  入度: 2
+  出度: 2
+设备: Gettysburg
+  入度: 2
+  出度: 2
+设备: Greensboro
+  入度: 3
+  出度: 3
+设备: Greenville
+  入度: 2
+  出度: 2
+设备: Greenvilleid91
+  入度: 4
+  出度: 4
+设备: Greenwood
+  入度: 1
+  出度: 1
+设备: Hagerstown
+  入度: 2
+  出度: 2
+设备: Harrisonburg
+  入度: 3
+  出度: 3
+设备: Hartwell
+  入度: 2
+  出度: 2
+设备: Hawkinsville
+  入度: 3
+  出度: 3
+设备: Hayesville
+  入度: 2
+  出度: 2
+设备: Herndon
+  入度: 2
+  出度: 2
+设备: Hiawassee
+  入度: 2
+  出度: 2
+设备: Hickory
+  入度: 2
+  出度: 2
+设备: Hickorytttavern
+  入度: 2
+  出度: 2
+设备: Highttpoint
+  入度: 3
+  出度: 3
+设备: Hiltontthead
+  入度: 2
+  出度: 2
+设备: Hinesville
+  入度: 2
+  出度: 2
+设备: Huntington
+  入度: 2
+  出度: 2
+设备: Jacksonville
+  入度: 2
+  出度: 2
+设备: Jacksonvilleid15
+  入度: 2
+  出度: 2
+设备: Johnsonttcity
+  入度: 2
+  出度: 2
+设备: Kernersville
+  入度: 2
+  出度: 2
+设备: Kershaw
+  入度: 2
+  出度: 2
+设备: Kingsport
+  入度: 2
+  出度: 2
+设备: Kinston
+  入度: 2
+  出度: 2
+设备: Lakettcity
+  入度: 2
+  出度: 2
+设备: Lancaster
+  入度: 2
+  出度: 2
+设备: Leesburg
+  入度: 2
+  出度: 2
+设备: Leesburgid143
+  入度: 2
+  出度: 2
+设备: Leslie
+  入度: 2
+  出度: 2
+设备: Levelttcross
+  入度: 2
+  出度: 2
+设备: Lexington
+  入度: 4
+  出度: 4
+设备: Lexingtonid123
+  入度: 2
+  出度: 2
+设备: Lynchburg
+  入度: 3
+  出度: 3
+设备: Macon
+  入度: 3
+  出度: 3
+设备: Maitland
+  入度: 2
+  出度: 2
+设备: Maretta
+  入度: 2
+  出度: 2
+设备: Marion
+  入度: 2
+  出度: 2
+设备: Martinsburg
+  入度: 2
+  出度: 2
+设备: Martinsville
+  入度: 2
+  出度: 2
+设备: Metter
+  入度: 2
+  出度: 2
+设备: Mobile
+  入度: 2
+  出度: 2
+设备: Monksttcorner
+  入度: 2
+  出度: 2
+设备: Montgomery
+  入度: 4
+  出度: 4
+设备: Murphy
+  入度: 2
+  出度: 2
+设备: Myrtlettbeach
+  入度: 3
+  出度: 3
+设备: Nahunta
+  入度: 3
+  出度: 3
+设备: Newttbern
+  入度: 2
+  出度: 2
+设备: Nodeid78
+  入度: 3
+  出度: 3
+设备: Nodeid79
+  入度: 3
+  出度: 3
+设备: Nodeid82
+  入度: 3
+  出度: 3
+设备: Nodeid84
+  入度: 3
+  出度: 3
+设备: Nodeid85
+  入度: 3
+  出度: 3
+设备: Nodeid86
+  入度: 3
+  出度: 3
+设备: Ocala
+  入度: 2
+  出度: 2
+设备: Omega
+  入度: 4
+  出度: 4
+设备: Orangeburg
+  入度: 1
+  出度: 1
+设备: Panamattcity
+  入度: 3
+  出度: 3
+设备: Peerdothan_0
+  入度: 1
+  出度: 1
+设备: Peervadosta_1
+  入度: 1
+  出度: 1
+设备: Pembroke
+  入度: 2
+  出度: 2
+设备: Pensacola
+  入度: 2
+  出度: 2
+设备: Radford
+  入度: 2
+  出度: 2
+设备: Raleigh
+  入度: 3
+  出度: 3
+设备: Rentz
+  入度: 2
+  出度: 2
+设备: Ringgold
+  入度: 2
+  出度: 2
+设备: Roanoke
+  入度: 4
+  出度: 4
+设备: Rocktthill
+  入度: 3
+  出度: 3
+设备: Rockyttmount
+  入度: 3
+  出度: 3
+设备: Rockyttmountid125
+  入度: 2
+  出度: 2
+设备: Salisbury
+  入度: 2
+  出度: 2
+设备: Savannah
+  入度: 4
+  出度: 4
+设备: Sparta
+  入度: 3
+  出度: 3
+设备: Spartanburg
+  入度: 3
+  出度: 3
+设备: Staunton
+  入度: 3
+  出度: 3
+设备: Stephensttcity
+  入度: 2
+  出度: 2
+设备: Sumter
+  入度: 3
+  出度: 3
+设备: Sylva
+  入度: 2
+  出度: 2
+设备: Tallahassee
+  入度: 4
+  出度: 4
+设备: Tarttheel
+  入度: 2
+  出度: 2
+设备: Tifton
+  入度: 2
+  出度: 2
+设备: Toccoa
+  入度: 2
+  出度: 2
+设备: Troutville
+  入度: 4
+  出度: 4
+设备: Vadosta
+  入度: 3
+  出度: 3
+设备: Walterboro
+  入度: 2
+  出度: 2
+设备: Warrenton
+  入度: 2
+  出度: 2
+设备: Warwick
+  入度: 2
+  出度: 2
+设备: Waycross
+  入度: 2
+  出度: 2
+设备: Waynesboro
+  入度: 4
+  出度: 4
+设备: Willacoochee
+  入度: 2
+  出度: 2
+设备: Wilmington
+  入度: 2
+  出度: 2
+设备: Winchester
+  入度: 2
+  出度: 2
+设备: Winterttpark
+  入度: 2
+  出度: 2
+设备: Wytheville
+  入度: 4
+  出度: 4
+设备: Yemassee
+  入度: 4
+  出度: 4
+设备: Youngttharris
+  入度: 3
+  出度: 3

@@ -1,0 +1,4 @@
+Equivalence_Class,Source,Destination
+hinttnarvik_FastEthernet1/1,hinttnarvik,Stockholm
+nordunetttstockholm_FastEthernet0/0,nordunetttstockholm,Stockholm
+uioid1_FastEthernet1/1,uioid1,Stockholm

@@ -20,6 +20,8 @@ from peft import PeftModel
 # verifier
 from src.verifier.api import score as verifier_score
 
+import traceback
+
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
 
@@ -70,7 +72,8 @@ def _trim_and_extract_first_json_array(text: str) -> str:
 def _safe_json_loads(s: str) -> Optional[Any]:
     try:
         return json.loads(s)
-    except Exception:
+    except Exception as e:
+        print(f"JSON loading error: {e}")
         return None
 
 
@@ -185,6 +188,8 @@ def main():
     ap.add_argument("--max_tries", type=int, default=4, help="max generations per sample")
     args = ap.parse_args()
 
+    print(f"[Info] Starting inference with input={args.input} output_dir={args.out_dir} base_model={args.base_model} adapter={args.adapter}")
+
     in_path = (REPO_ROOT / args.input).resolve()
     out_dir = (REPO_ROOT / args.out_dir).resolve()
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -192,11 +197,14 @@ def main():
     jsonl_path = out_dir / "generated_output_30.jsonl"
     summary_path = out_dir / "generated_output_30_summary.json"
 
+    print("[Info] Loading model and tokenizer...")
     tok, model = build_model(args.base_model, args.adapter, args.device)
+    print(f"[Info] Model loaded on {model.device}.")
 
     data = load_json_list(in_path)
     if args.limit and args.limit > 0:
         data = data[: args.limit]
+    print(f"[Info] Loaded {len(data)} samples from {in_path}.")
 
     records: List[Dict[str, Any]] = []
     times: List[float] = []
@@ -208,6 +216,7 @@ def main():
     with jsonl_path.open("w", encoding="utf-8") as fw:
         for idx, sample in enumerate(data, start=1):
             raw_idx = int(sample.get("raw_idx", idx - 1))
+            print(f"[Processing] Sample {idx}/{len(data)} (ID: {raw_idx})")
 
             user_input = sample.get("instruction", "") or ""
             reference = _as_text_reference(sample.get("output", ""))
@@ -221,6 +230,7 @@ def main():
             for t in range(1, args.max_tries + 1):
                 total_tries += 1
                 t0 = time.perf_counter()
+                print(f"  - Attempt {t}: Generating...", end=" ", flush=True)
                 raw_out = generate_one(
                     tok,
                     model,
@@ -231,13 +241,20 @@ def main():
                 )
                 t1 = time.perf_counter()
                 infer_time = round(t1 - t0, 3)
+                print(f"Done in {infer_time}s.")
 
                 model_output = _trim_and_extract_first_json_array(raw_out)
+                print(f"    -> Model Output: {model_output}")
+                # 替换所有' to "以确保JSON格式正确
+                model_output = model_output.replace("'", '"')
+                model_output = model_output.replace("True", "true").replace("False", "false").replace("None", "null")
+                print(f"    -> Processed Model Output: {model_output}")
                 parsed = _safe_json_loads(model_output)
 
                 if parsed is None:
                     v = 0.0
                     last_error = "invalid_json"
+                    print(f"    -> Invalid JSON generated.")
                 else:
                     policy_configs = _build_policy_configs_from_completion(parsed)
                     try:
@@ -246,6 +263,9 @@ def main():
                     except Exception as e:
                         v = 0.0
                         last_error = f"verifier_error:{type(e).__name__}"
+                        print(f"    -> Verifier scoring error: {e}")
+                        traceback.print_exc()
+                    print(f"    -> Verifier Score: {v:.4f}")
 
                 # update best (keep last-by-default, but also keep score/time)
                 chosen_output = model_output
@@ -256,6 +276,7 @@ def main():
                 # accept early
                 if v >= float(args.min_score):
                     accepted_cnt += 1
+                    print(f"    -> Accepted!")
                     break
 
             rec = {

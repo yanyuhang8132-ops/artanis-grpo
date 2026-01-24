@@ -1,0 +1,8 @@
+[
+    { "link": ["R1", "LB1"], "max_bw": 100 },
+    { "link": ["R2", "LB1"], "max_bw": 100 },
+    { "link": ["LB1", "ACL1"], "max_bw": 100 },
+    { "link": ["ACL1", "Internet"], "max_bw": 100 },
+    { "link": ["LB1", "Internet"], "max_bw": 100 }
+  ]
+  

@@ -1,0 +1,100 @@
+{
+  "scenario_id": 0,
+  "lb_rules": {
+    "Kranj": {
+      "[Bled,Slovenskattbistrica]": {
+        "next_hops": [
+          "Ljubljana",
+          "Koper"
+        ],
+        "weights": [
+          0.5,
+          0.5
+        ],
+        "prev_hop": "Bled"
+      }
+    },
+    "Lasko": {
+      "[Trbovlje,Velenje]": {
+        "next_hops": [
+          "Celje",
+          "Maribor"
+        ],
+        "weights": [
+          0.5,
+          0.5
+        ],
+        "prev_hop": "Trbovlje"
+      }
+    },
+    "Maribor": {
+      "[Lasko,Ormoz]": {
+        "next_hops": [
+          "Ptuj",
+          "Gornjattradgona"
+        ],
+        "weights": [
+          0.4,
+          0.6
+        ],
+        "prev_hop": "Lasko"
+      }
+    },
+    "Ljubljana": {
+      "[Trbovlje,Jesenice]": {
+        "next_hops": [
+          "Kranj",
+          "Koper"
+        ],
+        "weights": [
+          0.3,
+          0.7
+        ],
+        "prev_hop": "Trbovlje"
+      }
+    }
+  },
+  "acl_rules": {
+    "Maribor": {
+      "[Bled,Slovenskattbistrica]": {
+        "rate_limit": 29
+      }
+    },
+    "Dravograd": {
+      "[Trbovlje,Velenje]": {
+        "rate_limit": 37
+      },
+      "[Gornjattradgona,Velenje]": {
+        "rate_limit": 54
+      }
+    },
+    "Radenci": {
+      "[Lasko,Ormoz]": {
+        "rate_limit": 30
+      }
+    },
+    "Koper": {
+      "[Trbovlje,Jesenice]": {
+        "rate_limit": 21
+      },
+      "[Murskattsobota,Portoroz]": {
+        "rate_limit": 64
+      }
+    },
+    "Novattgorica": {
+      "[Ajdovscina,Trbovlje]": {
+        "rate_limit": 82
+      }
+    },
+    "Tolmin": {
+      "[Ajdovscina,Bled]": {
+        "rate_limit": 33
+      }
+    },
+    "Gornjattradgona": {
+      "[Jesenice,Murskattsobota]": {
+        "rate_limit": 32
+      }
+    }
+  }
+}

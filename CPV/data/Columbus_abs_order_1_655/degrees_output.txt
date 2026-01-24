@@ -1,0 +1,217 @@
+节点入度和出度：
+设备: """stttkittstt&ttnevis"""
+  入度: 0
+  出度: 3
+设备: Antigua
+  入度: 2
+  出度: 2
+设备: Bahamas
+  入度: 2
+  出度: 2
+设备: Barbados
+  入度: 1
+  出度: 1
+设备: Belize
+  入度: 2
+  出度: 2
+设备: Bonaire
+  入度: 1
+  出度: 1
+设备: Caymanttislands
+  入度: 1
+  出度: 1
+设备: Columbia
+  入度: 2
+  出度: 2
+设备: Costattrica
+  入度: 3
+  出度: 3
+设备: Curacao
+  入度: 4
+  出度: 4
+设备: Dominica
+  入度: 3
+  出度: 3
+设备: Dominicanttrepublic
+  入度: 3
+  出度: 3
+设备: Ecuador
+  入度: 1
+  出度: 1
+设备: Elttsalvador
+  入度: 1
+  出度: 1
+设备: Grenada
+  入度: 2
+  出度: 2
+设备: Guadeloupe
+  入度: 2
+  出度: 2
+设备: Guatemala
+  入度: 2
+  出度: 2
+设备: Guyana
+  入度: 1
+  出度: 1
+设备: Honduras
+  入度: 2
+  出度: 2
+设备: Jamaica
+  入度: 2
+  出度: 2
+设备: Martinique
+  入度: 3
+  出度: 3
+设备: Mexico
+  入度: 2
+  出度: 2
+设备: Nicaragua
+  入度: 2
+  出度: 2
+设备: Nodeid0
+  入度: 2
+  出度: 2
+设备: Nodeid1
+  入度: 5
+  出度: 5
+设备: Nodeid13
+  入度: 3
+  出度: 3
+设备: Nodeid14
+  入度: 1
+  出度: 1
+设备: Nodeid15
+  入度: 2
+  出度: 2
+设备: Nodeid17
+  入度: 2
+  出度: 2
+设备: Nodeid22
+  入度: 4
+  出度: 4
+设备: Nodeid24
+  入度: 2
+  出度: 2
+设备: Nodeid26
+  入度: 2
+  出度: 2
+设备: Nodeid27
+  入度: 3
+  出度: 3
+设备: Nodeid28
+  入度: 3
+  出度: 3
+设备: Nodeid29
+  入度: 3
+  出度: 3
+设备: Nodeid31
+  入度: 4
+  出度: 4
+设备: Nodeid32
+  入度: 2
+  出度: 2
+设备: Nodeid33
+  入度: 3
+  出度: 3
+设备: Nodeid34
+  入度: 2
+  出度: 2
+设备: Nodeid35
+  入度: 3
+  出度: 3
+设备: Nodeid37
+  入度: 2
+  出度: 2
+设备: Nodeid38
+  入度: 3
+  出度: 3
+设备: Nodeid39
+  入度: 2
+  出度: 2
+设备: Nodeid41
+  入度: 2
+  出度: 2
+设备: Nodeid44
+  入度: 4
+  出度: 4
+设备: Nodeid45
+  入度: 4
+  出度: 4
+设备: Nodeid46
+  入度: 3
+  出度: 3
+设备: Nodeid49
+  入度: 3
+  出度: 3
+设备: Nodeid50
+  入度: 3
+  出度: 3
+设备: Nodeid56
+  入度: 2
+  出度: 2
+设备: Nodeid58
+  入度: 2
+  出度: 2
+设备: Nodeid59
+  入度: 4
+  出度: 4
+设备: Nodeid60
+  入度: 2
+  出度: 2
+设备: Nodeid62
+  入度: 1
+  出度: 1
+设备: Nodeid63
+  入度: 3
+  出度: 3
+设备: Nodeid67
+  入度: 3
+  出度: 3
+设备: Nodeid69
+  入度: 2
+  出度: 2
+设备: Nodeid7
+  入度: 2
+  出度: 2
+设备: Nodeid8
+  入度: 3
+  出度: 3
+设备: Nodeid9
+  入度: 3
+  出度: 3
+设备: Panama
+  入度: 3
+  出度: 3
+设备: Peermartinique_0
+  入度: 1
+  出度: 1
+设备: Puertottrico
+  入度: 4
+  出度: 4
+设备: Stttcroix
+  入度: 3
+  出度: 3
+设备: Stttkittstt&ttnevis
+  入度: 3
+  出度: 0
+设备: Stttmartin
+  入度: 3
+  出度: 3
+设备: Stttvincent
+  入度: 2
+  出度: 2
+设备: Suriname
+  入度: 1
+  出度: 1
+设备: Trinidadttandtttobago
+  入度: 3
+  出度: 3
+设备: Turksttandttcaicos
+  入度: 2
+  出度: 2
+设备: Usa
+  入度: 2
+  出度: 2
+设备: Venezuela
+  入度: 2
+  出度: 2

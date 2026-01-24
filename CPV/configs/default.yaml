@@ -1,0 +1,15 @@
+data:
+  dataset_path: "data/augmented_dataset_all.json"
+  N_max: 158  # 最大节点数
+  interface_dim: 16  # 接口编码维度
+
+model:
+  hidden_dim: 16
+  gcn_layers: 2
+  fcn_layers: 2
+
+training:
+  batch_size: 32
+  epochs: 100
+  learning_rate: 0.001
+  device: "cuda"  # 或 "cpu"
